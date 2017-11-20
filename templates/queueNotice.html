@@ -1,0 +1,7 @@
+<!doctype html>
+<title>Queue Tag for Processing</title>
+{% if bnetId %}
+  <h1>Queued for processing: {{ bnetId }}</h1>
+{% else %}
+  <h1>Please provide a tag for processing by using: /queue/TAG</h1>
+{% endif %}
