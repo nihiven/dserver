@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Processing Queue{% endblock %}
+{% block contentHeader %}Battle Tag Processing Queue{% endblock %}
+{% block contentLead %}
+  {% if bnetId %}
+    {% if addedToQueue %}
+      Enqueued: {{ bnetId }}
+    {% else %}
+      Already queued for processing: {{ bnetId }}
+    {% endif %}
+  {% else %}
+    Please provide a tag for processing by using: /queue/TAG
+  {% endif %}
+{% endblock %}
+{% block contentData %}
+  <table>
+    <thead>
+      <tr><td>
+        <h3>Processing Queue</h3>
+      </td></tr>
+    </thead>
+    <tbody>
+    {% if queue is not none %}
+      {% for b in queue %}
+          <tr><td>{{ b[0] }}</td></tr>
+      {% endfor %}
+    {% else %}
+      <tr><td>The processing queue is empty.</td></tr>
+    {% endif %}
+    </tbody>
+  </table>
+{% endblock %}
