@@ -1,0 +1,2 @@
+# dserver
+I am building an interactive Diablo 3 related web site with the goal of enabling users to load their D3 character information from Battle.Net and compare their character builds to a set of predefined end game builds. The site will tell the user what pieces of gear they are missing, what skills they are missing, and what gems they are missing. Going beyond the simple comparison, the site will also examine the stat rolls on each piece of gear and make suggestions on how to re-roll gear for maximum effect.
