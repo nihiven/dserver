@@ -2,11 +2,11 @@
 {% block title %}Processing Queue{% endblock %}
 {% block contentHeader %}Battle Tag Processing Queue{% endblock %}
 {% block contentLead %}
-  {% if bnetId %}
+  {% if battleTag %}
     {% if addedToQueue %}
-      Enqueued: {{ bnetId }}
+      Enqueued: {{ battleTag }}
     {% else %}
-      Already queued for processing: {{ bnetId }}
+      Already queued for processing: {{ battleTag }}
     {% endif %}
   {% else %}
     Please provide a tag for processing by using: /queue/TAG

@@ -3,11 +3,11 @@
 #################
 venv/
 d3.db
+*.db-journal
 
 #################
 ## Eclipse
 #################
-
 *.pydevproject
 .project
 .metadata
