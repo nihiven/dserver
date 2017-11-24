@@ -1,0 +1,2406 @@
+{
+    "battleTag": "nihiven#1513",
+    "paragonLevel": 806,
+    "paragonLevelHardcore": 788,
+    "paragonLevelSeason": 756,
+    "paragonLevelSeasonHardcore": 0,
+    "guildName": "Gettin Huge",
+    "heroes": [{
+        "id": 32229424,
+        "name": "ICmdYouToGrw",
+        "class": "barbarian",
+        "gender": 0,
+        "level": 70,
+        "kills": {
+            "elites": 16006
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1463695498
+    }, {
+        "id": 77537722,
+        "name": "Softy",
+        "class": "demon-hunter",
+        "gender": 0,
+        "level": 70,
+        "kills": {
+            "elites": 13788
+        },
+        "paragonLevel": 806,
+        "hardcore": false,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1511138173
+    }, {
+        "id": 60507908,
+        "name": "Bjork",
+        "class": "witch-doctor",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 6051
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1465339750
+    }, {
+        "id": 95479515,
+        "name": "PatBateman",
+        "class": "demon-hunter",
+        "gender": 0,
+        "level": 70,
+        "kills": {
+            "elites": 6279
+        },
+        "paragonLevel": 756,
+        "hardcore": false,
+        "seasonal": true,
+        "dead": false,
+        "last-updated": 1511408605
+    }, {
+        "id": 54376723,
+        "name": "Latika",
+        "class": "wizard",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 2913
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1465335879
+    }, {
+        "id": 90880159,
+        "name": "Basel",
+        "class": "necromancer",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 2158
+        },
+        "paragonLevel": 806,
+        "hardcore": false,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1510272313
+    }, {
+        "id": 61354477,
+        "name": "Knova",
+        "class": "wizard",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 1660
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1465340407
+    }, {
+        "id": 66034974,
+        "name": "Tifa",
+        "class": "demon-hunter",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 2418
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1511138377
+    }, {
+        "id": 44158395,
+        "name": "JanOort",
+        "class": "crusader",
+        "gender": 0,
+        "level": 70,
+        "kills": {
+            "elites": 431
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1463696099
+    }, {
+        "id": 52540985,
+        "name": "StinkPants",
+        "class": "witch-doctor",
+        "gender": 1,
+        "level": 58,
+        "kills": {
+            "elites": 573
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1465340028
+    }, {
+        "id": 54997062,
+        "name": "RetnuhNomed",
+        "class": "demon-hunter",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 131
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1465278318
+    }, {
+        "id": 54344743,
+        "name": "Domino",
+        "class": "demon-hunter",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 84
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1499611411
+    }, {
+        "id": 91740409,
+        "name": "HeidiKlum",
+        "class": "wizard",
+        "gender": 1,
+        "level": 7,
+        "kills": {
+            "elites": 10
+        },
+        "paragonLevel": 806,
+        "hardcore": false,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1500756349
+    }, {
+        "id": 56857890,
+        "name": "DexItems",
+        "class": "demon-hunter",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 87
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1465343167
+    }, {
+        "id": 54344904,
+        "name": "Leeloo",
+        "class": "wizard",
+        "gender": 1,
+        "level": 1,
+        "kills": {
+            "elites": 0
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1511123753
+    }, {
+        "id": 96143889,
+        "name": "PattyBateman",
+        "class": "wizard",
+        "gender": 1,
+        "level": 70,
+        "kills": {
+            "elites": 44
+        },
+        "paragonLevel": 756,
+        "hardcore": false,
+        "seasonal": true,
+        "dead": false,
+        "last-updated": 1511412641
+    }, {
+        "id": 62694602,
+        "name": "Feyd",
+        "class": "crusader",
+        "gender": 0,
+        "level": 37,
+        "kills": {
+            "elites": 4
+        },
+        "paragonLevel": 788,
+        "hardcore": true,
+        "seasonal": false,
+        "dead": false,
+        "last-updated": 1511123711
+    }],
+    "lastHeroPlayed": 95479515,
+    "lastUpdated": 1511412641,
+    "kills": {
+        "monsters": 3652042,
+        "elites": 174667,
+        "hardcoreMonsters": 2620908
+    },
+    "highestHardcoreLevel": 70,
+    "timePlayed": {
+        "barbarian": 0.478,
+        "crusader": 0.011,
+        "demon-hunter": 1.0,
+        "monk": 0.108,
+        "necromancer": 0.024,
+        "witch-doctor": 0.222,
+        "wizard": 0.439
+    },
+    "progression": {
+        "act1": true,
+        "act2": true,
+        "act3": true,
+        "act4": true,
+        "act5": true
+    },
+    "fallenHeroes": [{
+        "death": {
+            "killer": 343767,
+            "location": 288798,
+            "time": 1465003759
+        },
+        "items": {
+            "waist": {
+                "id": "P3_Unique_Belt_005",
+                "name": "Hunter's Wrath",
+                "icon": "p3_unique_belt_005_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/Cl8IlcWH9gESBwgEFZO0b8sd0scwex1hQpTZHVzvrDwdhAOh1h0yicdaMItaOOUCQABQElgEYK0DgAFGkAEApQFc76w8rQFnPuzktQHAp0LUuAGxxq2DCsABDIACAogCehjZrYLJBlAAWAI"
+            },
+            "offHand": {
+                "id": "P2_Unique_Quiver_007",
+                "name": "Dead Man's Legacy",
+                "icon": "p2_unique_quiver_007_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/Cl4I78j6owgSBwgEFelGrCEdgGZcRh1nPuzkHZsGAMsdflazLh3J-rygHfV_Cz8wi1I41gFAAFASWARgjwKAAUaQAQClAWc-7OStAbi8IHq1AVTqvlu4Acme6_ILwAEHGNKb4poEUABYAg"
+            },
+            "mainHand": {
+                "id": "Unique_Bow_104_x1",
+                "name": "Yang's Recurve",
+                "icon": "unique_bow_104_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CowBCImQ2L4BEgcIBBV6DDF3Hcn6vKAdZ70cYR2eT4PcHRaZZzsd1b3OjTCLVji9AkAAUBJYBGCBA2orCgwIABCN35rQgoCAwD8SGwi2jqz0AxIHCAQVQi03qTCLUjgAQAFYBJABAIABRo0Btj7adJABAKUB1b3Oja0BgGZcRrUB_DpWg7gB8azdugnAAQEY9LGI8w5QAFgC",
+                "transmogItem": {
+                    "id": "Unique_Bow_001_x1",
+                    "name": "Etrayu",
+                    "icon": "unique_bow_001_x1_demonhunter_male",
+                    "displayColor": "orange",
+                    "tooltipParams": "item/etrayu-28FTbU"
+                }
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_Set_002_x1",
+                "name": "Restraint",
+                "icon": "unique_ring_set_002_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpEBCOO24vUIEgcIBBXqNOh1HUu1-UsdP_IJ2B07J28kHZinjsAd8dNq1R1mIwZQMItSOMYCQABQElgEYIsDajEKDAgAEIrW4tGCgIDAPxIhCNPgsKQJEgcIBBWHWaDBMItSOABAAFASWASQAQDYAYABgAFGkAEApQE7J28krQHmFdsNtQE2VV1EuAHV4d23D8ABBxjU08HeDlAAWAKgAZKivd4OoAHU08HeDg",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_Set_001_x1",
+                "name": "Focus",
+                "icon": "unique_ring_set_001_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpEBCKXUj_AOEgcIBBWJqOd1HX-Oh8wdrNOZOR1DTkRRHeYV2w0d8dNq1R1mIwZQMItSOM8CQABQElgEYJUDajEKDAgAENfc4tGCgIDAPxIhCNfV9OIOEgcIBBXo5aDBMItSOABAAFASWASQAQDYAYIBgAFGkAEApQFDTkRRrQGYp47AtQE2VV1EuAHW4vKKCsABCxiSor3eDlAAWAKgAZKivd4OoAHU08HeDg",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "neck": {
+                "id": "x1_Amulet_norm_unique_25",
+                "name": "Hellfire Amulet",
+                "icon": "x1_amulet_norm_unique_25_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CogBCMCTl88MEgcIBBWHUGQtHSb07RkdZiMGUB3J-rygHbi8IHodflazLh1yjh0hMI9SOOsCQABQElgEYLQDajEKDAgAEIjZ4tGCgIDAPxIhCImW3pkPEgcIBBVp_rLBMItSOABAAFASWASQAQDYAYgBkAEApQG4vCB6rQGwwQlyuAGI2cyiBsABPRiOwqLWBVAAWAI"
+            },
+            "torso": {
+                "id": "Unique_Chest_Set_03_p2",
+                "name": "Cage of the Hellborn",
+                "icon": "unique_chest_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CuQBCIuKoeQNEgcIBBVb0W0PHYBmXEYdbhfHex3LDekTHRfvmm4dcyMGUB0yicdaMItaOMwBQABQElgEYIMCaisKDAgAEMeslYOKgICAKRIbCK7Sg_UHEgcIBBVCLTepMItSOABAAVgEkAEAaioKDAgAEMqslYOKgICAKRIaCKyJnDMSBwgEFUItN6kwi1I4AEABWASQAQBqKwoMCAAQmKnL54KAgMAfEhsIgL_tugYSBwgEFUItN6kwi1I4AEABWASQAQCAAUaQAQClARfvmm6tAYQDoda1ATEiGWC4Aba51YoIwAECGLbF7vYBUABYAqAB6-Xz7A6gAavng-IOoAGph9j8BaABtsXu9gGgAdS51pMGoAGo9_uqDw",
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "feet": {
+                "id": "Unique_Boots_Set_03_p2",
+                "name": "Hell Walkers",
+                "icon": "unique_boots_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmAI1MLRpA0SBwgEFSv-NNAdP_IJ2B1yjh0hHevi5AUdXIlRdh1DTkRRHfHTatUwi1I40AFAAEgBUBJYBGCIAoABRpABAKUB6-LkBa0BOydvJLUBoEWbf7gBmMjt-g3AAQEYqYfY_AVQAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "hands": {
+                "id": "Unique_Gloves_Set_03_p2",
+                "name": "Fiendish Grips",
+                "icon": "unique_gloves_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmAI4Pz48AoSBwgEFdR9r3odyfq8oB1-VrMuHZsGAMsddEWniR1xi3fwHQFgLbEwi1I4qgJAAEgBUBJYBGDsAoABRpABAKUBdEWnia0BmKeOwLUByVuSpLgB3PDRxgnAASIYqPf7qg9QAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_Set_03_p2",
+                "name": "Unsanctified Shoulders",
+                "icon": "unique_shoulder_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmYIsL2f6AwSBwgEFSqG34kd8dNq1R07J28kHVhG4dkdQ05EUR2s05k5HXGLd_AwixI44gFAAEgBUBJYBGCcAoABRo0BEyzyiZABA6UBWEbh2a0BuLwgerUB0vjIFbgB2MCR4wTAASwYq-eD4g5QAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Unique_Shoulder_Set_14_x1",
+                    "name": "The Shadow's Burden",
+                    "icon": "unique_shoulder_set_14_x1_demonhunter_male",
+                    "displayColor": "green",
+                    "tooltipParams": "item/the-shadows-burden",
+                    "setItemsEquipped": ["Unique_Shoulder_Set_14_x1"]
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "legs": {
+                "id": "Unique_Pants_Set_03_p2",
+                "name": "Unholy Plates",
+                "icon": "unique_pants_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CroBCJTEvpcMEgcIBBVqzjoxHSlMJiMdcYt38B2EA6HWHYyBXYUdj5DKUB0yicdaMItaOIoCQABIAVASWARgyAJqKwoMCAAQ0bKxqYWAgKAIEhsI2eSMyQMSBwgEFUItN6kwi1I4AEABWASQAQBqKwoMCAAQ07KxqYWAgKAIEhsInJWmugMSBwgEFUItN6kwi1I4AEABWASQAQCAAUaQAQClAYyBXYWtATmd5AS1AZ-S1aW4AaCl6IYOwAEEGNS51pMGUABYAqAB6-Xz7A6gAavng-IOoAGph9j8BaABtsXu9gGgAdS51pMGoAGo9_uqDw",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "bracers": {
+                "id": "P3_Unique_Bracer_103",
+                "name": "Wraps of Clarity",
+                "icon": "p3_unique_bracer_103_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkItaTIiQ0SBwgEFRq00R8d8dNq1R3mFdsNHUNORFEdOnXajB04ssDVMItSOPEBQABQElgEYK0CgAFGkAEApQE6ddqMrQFADVULtQHbLMrLuAHK4-zpCsABQBi00I39A1AAWAI"
+            },
+            "head": {
+                "id": "Unique_Helm_Set_03_p2",
+                "name": "Accursed Visage",
+                "icon": "unique_helm_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CosBCImM5KAJEgcIBBWKhjGJHcn6vKAdZiMGUB3mFdsNHZsGAMsdHaONxB0_8gnYMItSOOECQABQElgEYKkDaisKDAgAEM2ylYOKgICAKRIbCJma0oUBEgcIBBWkvhzCMItSOABAAVgEkAEAgAFGkAEApQHmFdsNrQHmFdsNtQF_-U5duAH9rNnNCsABBxjr5fPsDlAAWAKgAevl8-wOoAGr54PiDqABqYfY_AWgAbbF7vYBoAHUudaTBqABqPf7qg8",
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 3046
+        },
+        "level": 70,
+        "stats": {
+            "life": 0,
+            "damage": 1032760.0,
+            "toughness": 7338960.0,
+            "healing": 51034.4,
+            "armor": 0,
+            "strength": 77,
+            "dexterity": 9541,
+            "vitality": 5451,
+            "intelligence": 77,
+            "physicalResist": 0,
+            "fireResist": 565,
+            "coldResist": 555,
+            "lightningResist": 351,
+            "poisonResist": 201,
+            "arcaneResist": 201,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "Sparki",
+        "class": "demon-hunter",
+        "gender": 1,
+        "heroId": 63375900
+    }, {
+        "death": {
+            "killer": 6655,
+            "location": 288685,
+            "time": 1463976127
+        },
+        "items": {
+            "waist": {
+                "id": "P3_Unique_Belt_005",
+                "name": "Hunter's Wrath",
+                "icon": "p3_unique_belt_005_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIxajt5gESBwgEFZO0b8sdMonHWh2EA6HWHVzvrDwd3oL85R0_8gnYMItaOM0CQABQElgEYPUCgAFGkAEApQFc76w8rQFnPuzktQHAp0LUuAG588OrAsABGhjZrYLJBlAAWAI"
+            },
+            "offHand": {
+                "id": "P2_Unique_Quiver_007",
+                "name": "Dead Man's Legacy",
+                "icon": "p2_unique_quiver_007_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/Cl4IksH2kwYSBwgEFelGrCEdco4dIR3LDekTHbi8IHodflazLh3J-rygHfV_Cz8wi1I4_wFAAFASWARgngKAAUaQAQClAXKOHSGtAYBmXEa1AVTqvlu4Ad221LgOwAEFGNKb4poEUABYAg"
+            },
+            "mainHand": {
+                "id": "Unique_Bow_104_x1",
+                "name": "Yang's Recurve",
+                "icon": "unique_bow_104_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CowBCOy5yqQEEgcIBBV6DDF3HcxWYkYdnAYAyx2eT4PcHWi9HGEdyvq8oDCLXjiRA0AAUBJYBGDAA2orCgwIABDz24zzgICAgDwSGwiAu_HkAxIHCAQVQi03qTCLUjgAQAFYBJABAIABRpABAKUBaL0cYa0B5G_MhLUB_DpWg7gB76GazwTAAUeAAgKIAlAY9LGI8w5QAFgC"
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_Set_001_x1",
+                "name": "Focus",
+                "icon": "unique_ring_set_001_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpEBCNvW5r8HEgcIBBWJqOd1HazTmTkdRXvG3R2Yp47AHUNORFEd8dNq1R1mIwZQMItSOJkCQABQElgEYLsCajEKDAgAEK7Vm_qAgIDANRIhCLvT_IYMEgcIBBXo5aDBMIsCOABAAFASWASQAQDYAYYBgAFGkAEApQFDTkRRrQHmFdsNtQE2VV1EuAGx_4rKDsABLxiSor3eDlAAWAKgAZKivd4OoAHU08HeDg",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_Set_002_x1",
+                "name": "Restraint",
+                "icon": "unique_ring_set_002_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpcBCNOhh_8DEgcIBBXqNOh1Ha3TmTkdbhfHex24vCB6HYQDodYdMonHWh1mIwZQMIsaOIsCQABQElgEYKsCajEKDAgAELCpjd2AgIDgFhIhCIOJn84FEgcIBBVp_rLBMIsCOABAAFASWASQAQDYAZABgAFGkAEDpQG4vCB6rQHmFdsNtQE2VV1EuAHtrOLVCMABCoACA4gCUBjU08HeDlAAWAKgAZKivd4OoAHU08HeDg",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "neck": {
+                "id": "x1_Amulet_norm_unique_25",
+                "name": "Hellfire Amulet",
+                "icon": "x1_amulet_norm_unique_25_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CocBCP_R8MkIEgcIBBWHUGQtHRtfhMsdZiMGUB3J-rygHUANVQsdfnZVoR1_jofMMI9SOIkDQABQElgEYLcDajAKDAgAEK3Vm_qAgIDANRIgCNvtg6IDEgcIBBWHWaDBMIsCOABAAFASWASQAQDYAXqQAQClAX52VaGtAbDBCXK4Aaqi4_8LwAFrGI7CotYFUABYAg"
+            },
+            "torso": {
+                "id": "Unique_Chest_Set_03_p2",
+                "name": "Cage of the Hellborn",
+                "icon": "unique_chest_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cu0BCJuG9pMHEgcIBBVb0W0PHYBmXEYd89VHtB0X75puHUNORFEdcyMGUB3x02rVMIsSOP4CQABIBlASWARgqwNqKwoMCAAQnveRr4SAgIAbEhsI6o_w_AISBwgEFUItN6kwixI4AEABWASQAQNqKwoMCAAQoPeRr4SAgIAbEhsIuam-8gMSBwgEFUItN6kwixI4AEABWASQAQNqKwoMCAAQofeRr4SAgIAbEhsIw-iYgAMSBwgEFUItN6kwixI4AEABWASQAQOAAUaNAUR3gA-QAQOlARfvmm6tATAIA7q1ATEiGWC4Adu7zJ4HwAEPGLbF7vYBUABYAqAB6-Xz7A6gAavng-IOoAGph9j8BaABtsXu9gGgAdS51pMGoAGo9_uqDw",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_13",
+                        "name": "Elegant Dye",
+                        "icon": "dye_13_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/elegant-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Unique_Chest_Set_14_x1",
+                    "name": "The Shadow's Bane",
+                    "icon": "unique_chest_set_14_x1_demonhunter_male",
+                    "displayColor": "green",
+                    "tooltipParams": "item/the-shadows-bane",
+                    "setItemsEquipped": ["Unique_Chest_Set_14_x1"]
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "feet": {
+                "id": "Unique_Boots_Set_03_p2",
+                "name": "Hell Walkers",
+                "icon": "unique_boots_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmAIsd302g0SBwgEFSv-NNAdrNOZOR1yjh0hHaLPFFYdXIlRdh1DTkRRHfHTatUwixI4wgJAAEgGUBJYBGDpAoABRpABA6UBos8UVq0BOydvJLUBoEWbf7gB6cCjzQ_AAQQYqYfY_AVQAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_13",
+                        "name": "Elegant Dye",
+                        "icon": "dye_13_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/elegant-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "hands": {
+                "id": "Unique_Gloves_Set_03_p2",
+                "name": "Fiendish Grips",
+                "icon": "unique_gloves_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmAIg4zS1gQSBwgEFdR9r3od0IZp1x0bXc9EHXRFp4kdmKeOwB1-VrMuHcr6vKAwi1o4vQJAAEgBUBJYBGDjAoABRpABAKUBdEWnia0BnAYAy7UByVuSpLgBhMzL5A_AAQUYqPf7qg9QAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_Set_03_p2",
+                "name": "Unsanctified Shoulders",
+                "icon": "unique_shoulder_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmAIyYvT3wQSBwgEFSqG34kdrNOZOR1xi3fwHUNORFEdTeTSch07J28kHfHTatUwi1I45gJAAEgGUBJYBGCRA4ABRpABAKUBTeTScq0BuLwgerUB0vjIFbgBtZzstQnAAQEYq-eD4g5QAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_13",
+                        "name": "Elegant Dye",
+                        "icon": "dye_13_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/elegant-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "legs": {
+                "id": "Unique_Pants_Set_03_p2",
+                "name": "Unholy Plates",
+                "icon": "unique_pants_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CscBCNjjyrQOEgcIBBVqzjoxHdCGadcdP_IJ2B2EA6HWHVzvrDwdj5DKUB0yicdaMItaOMUCQABIAVASWARg7AJqKwoMCAAQ_cKji4GAgOArEhsI5sXM9QgSBwgEFaS-HMIwi1I4AEABWASQAQBqKwoMCAAQnZ6py4eAgKACEhsIlYSJpQUSBwgEFaS-HMIwixI4AEABWASQAQOAAUaNAaCU_PSQAQClAVzvrDytATmd5AS1AZ-S1aW4AfTky5UKwAEIgAICiAKCARjUudaTBlAAWAKgAevl8-wOoAGr54PiDqABqYfY_AWgAbbF7vYBoAHUudaTBqABqPf7qg8",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "P2_Unique_Pants_04",
+                    "name": "Zunimassa's Cloth",
+                    "icon": "p2_unique_pants_04_demonhunter_male",
+                    "displayColor": "green",
+                    "tooltipParams": "item/zunimassas-cloth",
+                    "setItemsEquipped": ["P2_Unique_Pants_04"]
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "bracers": {
+                "id": "P3_Unique_Bracer_103",
+                "name": "Wraps of Clarity",
+                "icon": "p3_unique_bracer_103_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/Cl8ItNqBpgcSBwgEFRq00R8d0scwex2EA6HWHW3EBRId5hXbDR0yicdaMItaOPIBQABQElgEYJACgAFGkAEApQFtxAUSrQFADVULtQHbLMrLuAGDob2AB8ABMoACAogCbBi00I39A1AAWAI"
+            },
+            "head": {
+                "id": "Unique_Helm_Set_03_p2",
+                "name": "Accursed Visage",
+                "icon": "unique_helm_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpMBCOzbkf0HEgcIBBWKhjGJHcbg4xIdcYt38B1txAUSHZwGAMsdZiMGUB3K-rygMItaOPIBQABIAVASWARgkAJqKwoMCAAQjP-whoeAgKAqEhsI7cnLrggSBwgEFTcbdM0wi1I4AEABWASQAQCAAUaQAQClAW3EBRKtAeYV2w21AX_5Tl24AdH3wvcFwAFQgAIDiAJuGOvl8-wOUABYAqAB6-Xz7A6gAavng-IOoAGph9j8BaABtsXu9gGgAdS51pMGoAGo9_uqDw",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 38219
+        },
+        "level": 70,
+        "stats": {
+            "life": 0,
+            "damage": 1071440.0,
+            "toughness": 1.62944E7,
+            "healing": 185501.0,
+            "armor": 0,
+            "strength": 552,
+            "dexterity": 10262,
+            "vitality": 6696,
+            "intelligence": 77,
+            "physicalResist": 0,
+            "fireResist": 685,
+            "coldResist": 678,
+            "lightningResist": 1043,
+            "poisonResist": 639,
+            "arcaneResist": 635,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "Milla",
+        "class": "demon-hunter",
+        "gender": 1,
+        "heroId": 37476124
+    }, {
+        "death": {
+            "killer": 221225,
+            "location": 288454,
+            "time": 1436493150
+        },
+        "items": {
+            "waist": {
+                "id": "Unique_Belt_Set_02_x1",
+                "name": "Krelm's Buff Belt",
+                "icon": "unique_belt_set_02_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/ClgIvuWJpA8SBwgEFTGWOMsdtE-Jbh2EA6HWHb1VhNMdZz7s5B0yicdaMIsaOJYCQABQElgEYMICgAFGkAEDpQG9VYTTrQHegvzltQHAp0LUuAGA645owAEIGJ2nu8wGUABYAqABnae7zAY",
+                "setItemsEquipped": ["Unique_Belt_Set_02_x1"]
+            },
+            "offHand": {
+                "id": "P2_Unique_Quiver_007",
+                "name": "Dead Man's Legacy",
+                "icon": "p2_unique_quiver_007_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIjfGwog4SBwgEFelGrCEdgGZcRh0mtR2VHZsGAMsdflazLh3J-rygMIsSOP4CQABQElgEYLUDgAFGkAEDpQEmtR2VrQFciVF2tQFU6r5buAGomoGAC8ABGxjSm-KaBFAAWAI"
+            },
+            "mainHand": {
+                "id": "Unique_Bow_009_x1",
+                "name": "Windforce",
+                "icon": "unique_bow_009_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CnYI4oesxg0SBwgEFb6h3nQdgGZcRh0WmWc7HUXgTSIdyvq8oB2EJzvIMIseOOICQABQElgEYJYDaisKDAgAEMXLirGCgICgHxIbCLiV6NoBEgcIBBUjlq6YMI8SOABAAVgEkAEDgAFGjQG-NlaDkAEDtQH8OlaDGPyG9c0OUABYAg",
+                "transmogItem": {
+                    "id": "Bow_205",
+                    "name": "Phantom Bow",
+                    "icon": "bow_205_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/phantom-bow"
+                }
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_Set_002_x1",
+                "name": "Restraint",
+                "icon": "unique_ring_set_002_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CowBCP6GjOgKEgcIBBXqNOh1HfPVR7Qdco4dIR3mFdsNHdKfnkQd8dNq1R1mIwZQMIsSOO0CQABQElgEYKIDaiwKCAgAEJWLxa0DEiAIuOTolgsSBwgEFejloMEwixI4AEAAUBJYBJABA9gBWoABRpABA6UB0p-eRK0BmKeOwLUBNlVdRLgBzKOL4AfAARgY1NPB3g5QAFgCoAGSor3eDqAB1NPB3g4",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_Set_001_x1",
+                "name": "Focus",
+                "icon": "unique_ring_set_001_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Co8BCJLO0_0IEgcIBBWJqOd1HXKOHSEdHaONxB2Yp47AHYvxekId8dNq1R1mIwZQMIsSOLcCQABQElgEYOYCajAKDAgAEOy_vP6BgIDgLRIgCOifg74IEgcIBBXtL7XBMIsSOABAAFASWASQAQPYAVaAAUaQAQOlAYvxekKtAeYV2w21ATZVXUS4Ae27gz3AAQMYkqK93g5QAFgCoAGSor3eDqAB1NPB3g4",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "neck": {
+                "id": "Unique_Amulet_014_x1",
+                "name": "Eye of Etlich",
+                "icon": "unique_amulet_014_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CowBCO_F3Y8LEgcIBBUaXhpbHdEztusdyfq8oB1mIwZQHX5Wsy4dQA1VCx1lOtTgMIsSOM0CQABQElgEYP8CaiwKCAgAEJj8xK0DEiAIksKpnwUSBwgEFWn-ssEwixI4AEAAUBJYBJABA9gBXIABRpABA6UByfq8oK0BsMEJcrUBsMVEZLgBw4a18AnAAX0YtPjSsQtQAFgC"
+            },
+            "torso": {
+                "id": "Unique_Chest_Set_03_p2",
+                "name": "Cage of the Hellborn",
+                "icon": "unique_chest_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CuUBCIi3j90IEgcIBBVb0W0PHa3TmTkdgGZcRh3egvzlHcsN6RMdcyMGUB0yicdaMIsaOK4CQABQElgEYNwCaisKDAgAELve-O6BgIDAOxIbCNf5wJAGEgcIBBUjlq6YMIsSOABAAVgEkAEDaisKDAgAEL3e-O6BgIDAOxIbCO2pqLIIEgcIBBUjlq6YMIsSOABAAVgEkAEDaisKDAgAEKayi6OHgICAIRIbCIKsjaELEgcIBBUjlq6YMIsSOABAAVgEkAEDgAFGkAEDpQHLDekTrQGEA6HWtQExIhlguAGW_rzNBsABARi2xe72AVAAWAKgAevl8-wOoAGr54PiDqABqYfY_AWgAbbF7vYBoAHUudaTBqABqPf7qg8",
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "feet": {
+                "id": "Unique_Boots_Set_03_p2",
+                "name": "Hell Walkers",
+                "icon": "unique_boots_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmYItbyk7gwSBwgEFSv-NNAd8dNq1R1DTkRRHeqbHNodOydvJB2s05k5HT_yCdgwixI43wFAAEgBUBJYBGCFAoABRo0BFKRH0JABA6UB6psc2q0BXIlRdrUBoEWbf7gB8ePPpQ_AAQQYqYfY_AVQAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Unique_Boots_Set_14_x1",
+                    "name": "The Shadow's Heels",
+                    "icon": "unique_boots_set_14_x1_demonhunter_male",
+                    "displayColor": "green",
+                    "tooltipParams": "item/the-shadows-heels",
+                    "setItemsEquipped": ["Unique_Boots_Set_14_x1"]
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "hands": {
+                "id": "Unique_Gloves_Set_03_p2",
+                "name": "Fiendish Grips",
+                "icon": "unique_gloves_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cl8IqayOpwsSBwgEFdR9r3odyfq8oB1-VrMuHZinjsAdfnZVoR04ssDVHXGLd_AwixI4sgJAAEgVUBJYBGDhAoABRpABA6UBfnZVoa0BdEWnibUByVuSpLgBgLGqDcABCxio9_uqD1AAWAKgAevl8-wOoAGr54PiDqABqYfY_AWgAbbF7vYBoAHUudaTBqABqPf7qg8",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_Vanishing",
+                        "name": "Vanishing Dye",
+                        "icon": "dye_vanishing_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/vanishing-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_Set_03_p2",
+                "name": "Unsanctified Shoulders",
+                "icon": "unique_shoulder_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cl8Ip67bmAsSBwgEFSqG34kdxK05XB1xi3fwHUNORFEdZz7s5B07J28kHfHTatUwixI4qQJAAEgVUBJYBGDXAoABRpABA6UBxK05XK0BtEfvo7UB0vjIFbgBye6xAsABAxir54PiDlAAWAKgAevl8-wOoAGr54PiDqABqYfY_AWgAbbF7vYBoAHUudaTBqABqPf7qg8",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_Vanishing",
+                        "name": "Vanishing Dye",
+                        "icon": "dye_vanishing_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/vanishing-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "legs": {
+                "id": "Unique_Pants_Set_03_p2",
+                "name": "Unholy Plates",
+                "icon": "unique_pants_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cr4BCMnC-S8SBwgEFWrOOjEd2T_Unx3z1Ue0HYyBXYUdQ05EUR2PkMpQHfHTatUwixI48wJAAEgDUBJYBGCpA2oqCgwIABDjz-2OgoCAoC8SGgim9PULEgcIBBWFJ5SxMI8SOABAAVgEkAEDaisKDAgAEKHxrd-BgICANhIbCNjF-aINEgcIBBWFJ5SxMIsSOABAAVgEkAEDgAFGjQFTdE0xkAEDpQGMgV2FrQE4neQEtQGfktWluAHtxPi9D8ABCRjUudaTBlAAWAKgAevl8-wOoAGr54PiDqABqYfY_AWgAbbF7vYBoAHUudaTBqABqPf7qg8",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_19",
+                        "name": "Purity Dye",
+                        "icon": "dye_19_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/purity-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Unique_Pants_Set_14_x1",
+                    "name": "The Shadow's Coil",
+                    "icon": "unique_pants_set_14_x1_demonhunter_male",
+                    "displayColor": "green",
+                    "tooltipParams": "item/the-shadows-coil",
+                    "setItemsEquipped": ["Unique_Pants_Set_14_x1"]
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "bracers": {
+                "id": "Unique_Bracer_007_x1",
+                "name": "Strongarm Bracers",
+                "icon": "unique_bracer_007_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIie760AUSBwgEFSPaCDcdco4dIR1ADVULHUNORFEd8dNq1R3mFdsNMIsSOKQCQABQElgEYNECgAFGkAEDpQFyjh0hrQG3W1RNtQHbLMrLuAGLrMyjA8ABBxjG6MbwBlAAWAI"
+            },
+            "head": {
+                "id": "Unique_Helm_Set_03_p2",
+                "name": "Accursed Visage",
+                "icon": "unique_helm_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CokBCPDah90OEgcIBBWKhjGJHcn6vKAdZiMGUB2rDwKHHZsGAMsdrLzTUx04ssDVMIsSOPYCQABIFVASWARgrANqJwoICAAQyJvFrQMSGwiW_-GwBxIHCAQVGJ_YqzCPEjgAQAFYBJABA4ABRpABA6UBqw8Ch60B5hXbDbUBf_lOXbgBuYzsnwXAAQ8Y6-Xz7A5QAFgCoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_Vanishing",
+                        "name": "Vanishing Dye",
+                        "icon": "dye_vanishing_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/vanishing-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 8779
+        },
+        "level": 70,
+        "stats": {
+            "life": 0,
+            "damage": 949440.0,
+            "toughness": 1.14785E7,
+            "healing": 806687.0,
+            "armor": 0,
+            "strength": 77,
+            "dexterity": 8022,
+            "vitality": 4497,
+            "intelligence": 77,
+            "physicalResist": 0,
+            "fireResist": 593,
+            "coldResist": 741,
+            "lightningResist": 593,
+            "poisonResist": 898,
+            "arcaneResist": 593,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "SarahConnor",
+        "class": "demon-hunter",
+        "gender": 1,
+        "heroId": 60999114
+    }, {
+        "death": {
+            "killer": 4089,
+            "location": 288454,
+            "time": 1434827824
+        },
+        "items": {
+            "waist": {
+                "id": "Unique_Belt_008_x1",
+                "name": "String of Ears",
+                "icon": "unique_belt_008_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI1pzplwYSBwgEFbxQj2kd6VxhwR2EA6HWHb1VhNMd3oL85R3cO1NoMIsaOO4CQABQElgEYKoDgAFGkAEDpQHcO1NorQEyicdatQHAp0LUuAGq5P33B8ABDhj4wvqYDVAAWAA"
+            },
+            "offHand": {
+                "id": "P2_Unique_Quiver_007",
+                "name": "Dead Man's Legacy",
+                "icon": "p2_unique_quiver_007_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIg6Li8QoSBwgEFelGrCEdgGZcRh1N5NJyHcsN6RMdflazLh3J-rygMIsSOPQBQABQElgEYKMCgAFGkAEDpQFN5NJyrQFciVF2tQFU6r5buAHcouXdBcABMBjSm-KaBFAAWAA"
+            },
+            "mainHand": {
+                "id": "Unique_HandXBow_003_x1",
+                "name": "Natalya's Slayer",
+                "icon": "unique_handxbow_003_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CnsIh93hiwMSBwgEFWuLPrsdgGZcRh0oEzfnHdzx9mQdnk-D3B3K-rygHfsXiOwwix448QFAAFASWARgnwJqKwoMCAAQ_ZfeioSAgIA4EhsImNzjmg4SBwgEFSOWrpgwjxI4AEABWASQAQOAAUaNAUsVV-qQAQO1AQ8iV-oYqdKLzAhQAFgAoAGp0ovMCA",
+                "transmogItem": {
+                    "id": "HandXbow_001",
+                    "name": "Simple Hand Crossbow",
+                    "icon": "handxbow_001_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/simple-hand-crossbow"
+                },
+                "setItemsEquipped": ["Unique_HandXBow_003_x1"]
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_Set_002_x1",
+                "name": "Restraint",
+                "icon": "unique_ring_set_002_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpABCP7FkJMEEgcIBBXqNOh1HUu1-UsdbhfHex2VjRfBHYQDodYdMonHWh1mIwZQMIsaOM8BQABQElgEYPoBajAKDAgAEPG-uaeBgICADRIgCKHv96QBEgcIBBXo5aDBMIsSOABAAFASWASQAQPYAV6AAUaQAQOlAZWNF8GtAZinjsC1ATZVXUS4Ad3XyOsCwAEGGNTTwd4OUABYAKABkqK93g6gAdTTwd4O",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_Set_001_x1",
+                "name": "Focus",
+                "icon": "unique_ring_set_001_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpABCN60gNsJEgcIBBWJqOd1Ha3TmTkdbhfHex10RaeJHeYV2w0dMonHWh1mIwZQMIsaONECQABQElgEYIoDajAKDAgAELPNvP6BgIDgLRIgCLa6wqYCEgcIBBVp_rLBMIsSOABAAFASWASQAQPYAWCAAUaQAQOlAXRFp4mtAZinjsC1ATZVXUS4AcuivZsHwAEtGJKivd4OUABYAKABkqK93g6gAdTTwd4O",
+                "setItemsEquipped": ["Unique_Ring_Set_001_x1", "Unique_Ring_Set_002_x1"]
+            },
+            "neck": {
+                "id": "Unique_Amulet_015_x1",
+                "name": "Mara's Kaleidoscope",
+                "icon": "unique_amulet_015_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CooBCL2lr5cLEgcIBBV76hpbHQFgLbEdOnXajB1ADVULHX5Wsy4dyfq8oDCLEjjFAkAAUBJYBGD9AmovCgwIABD54rm6gYCA4BUSHwjXy6EfEgcIBBWHWaDBMIsSOABAAFASWASQAQPYAV6AAUaQAQOlATp12oytAWYjBlC1AbDFRGS4AYmtpY4LwAEGGPap17ELUABYAA"
+            },
+            "torso": {
+                "id": "Unique_Chest_Set_03_p2",
+                "name": "Cage of the Hellborn",
+                "icon": "unique_chest_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cu0BCKKxj8UPEgcIBBVb0W0PHfHTatUdcyMGUB1nPuzkHSa1HZUdgGZcRh0BYC2xMIsSOIADQABIAVASWARgvgNqKwoMCAAQo-WDmYGAgIAHEhsI_t2Qtg0SBwgEFSOWrpgwixI4AEABWASQAQNqKwoMCAAQpeWDmYGAgIAHEhsIneruxw0SBwgEFSOWrpgwixI4AEABWASQAQNqKwoMCAAQ4uHcr4eAgMAoEhsItL7fsAMSBwgEFSOWrpgwixI4AEABWASQAQOAAUaNAakZGWCQAQOlASa1HZWtAUNORFG1ATEiGWC4Afn_3rAKwAEBGLbF7vYBUABYAKAB6-Xz7A6gAavng-IOoAGph9j8BaABtsXu9gGgAdS51pMGoAGo9_uqDw",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "ChestArmor_002",
+                    "name": "Leather Doublet",
+                    "icon": "chestarmor_002_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/leather-doublet"
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "feet": {
+                "id": "Unique_Boots_Set_03_p2",
+                "name": "Hell Walkers",
+                "icon": "unique_boots_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmYI_rT-kgESBwgEFSv-NNAdMonHWh2EA6HWHWCeJkcd6-LkBR1xi3fwHdLHMHswixo45QFAAEgBUBJYBGCSAoABRo0BFz2bf5ABA6UBYJ4mR60BXIlRdrUBoEWbf7gB3IO82gfAAQ8YqYfY_AVQAFgAoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Boots_001",
+                    "name": "Shoes",
+                    "icon": "boots_001_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/shoes"
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "hands": {
+                "id": "Unique_Gloves_Set_03_p2",
+                "name": "Fiendish Grips",
+                "icon": "unique_gloves_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmYI7u6k8goSBwgEFdR9r3odcYt38B0WSfSHHZwGAMsdfnZVoR1-VrMuHcr6vKAwixo40QJAAEgBUBJYBGCKA4ABRo0BQFOSpJABA6UBfnZVoa0BmKeOwLUByVuSpLgB1IzJoQ_AASAYqPf7qg9QAFgAoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Gloves_001",
+                    "name": "Gloves",
+                    "icon": "gloves_001_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/gloves"
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_Set_03_p2",
+                "name": "Unsanctified Shoulders",
+                "icon": "unique_shoulder_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CmYI7pDMrA4SBwgEFSqG34kdP_IJ2B1xi3fwHWc-7OQdos8UVh07J28kHfHTatUwixI42AJAAEgBUBJYBGCSA4ABRo0BivTIFZABA6UBos8UVq0BQ05EUbUB0vjIFbgBpp3mjA_AAQEYq-eD4g5QAFgAoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Shoulders_101",
+                    "name": "Etched Mantle",
+                    "icon": "shoulders_101_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/etched-mantle"
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "legs": {
+                "id": "Unique_Pants_Set_03_p2",
+                "name": "Unholy Plates",
+                "icon": "unique_pants_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cr8BCIql_DkSBwgEFWrOOjEdP_IJ2B0EBj61HVzvrDwdvVWE0x2PkMpQHTKJx1owixo4jQJAAEgBUBJYBGC-AmorCgwIABC7ga2Ng4CAgDASGwiW5oyIDxIHCAQVhSeUsTCLEjgAQAFYBJABA2orCgwIABCpiaLHgYCA4BUSGwjW9PiAAxIHCAQVhSeUsTCPEjgAQAFYBJABA4ABRo0BForVpZABA6UBXO-sPK0BhAOh1rUBn5LVpbgByb_c2AfAAQgY1LnWkwZQAFgAoAHr5fPsDqABq-eD4g6gAamH2PwFoAG2xe72AaAB1LnWkwagAaj3-6oP",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Pants_001",
+                    "name": "Cloth Pants",
+                    "icon": "pants_001_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/cloth-pants"
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            },
+            "bracers": {
+                "id": "Unique_Bracer_103_x1",
+                "name": "Reaper's Wraps",
+                "icon": "unique_bracer_103_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClUIxNi7nQISBwgEFUDRWzkd59c4_h1DTkRRHfHTatUdQA1VCx3mFdsNHWU61OAwjxI48gFAAFASWARgoAKQAQOlAUANVQutAUANVQu4AfOTz_QLwAECGIDF3pUHUABYAA"
+            },
+            "head": {
+                "id": "Unique_Helm_Set_03_p2",
+                "name": "Accursed Visage",
+                "icon": "unique_helm_set_03_p2_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CpMBCL3BvfsBEgcIBBWKhjGJHRZJ9IcdG13PRB2cBgDLHWCeJkcdZiMGUB3K-rygMIsaOOEBQABIAVASWARgjQJqKwoMCAAQoJK_-oCAgMA0EhsIz_XWrQYSBwgEFRif2KswjxI4AEABWASQAQOAAUaNATn1Tl2QAQOlAWCeJketAeYV2w21AX_5Tl24AfHTxfcGwAE5GOvl8-wOUABYAKAB6-Xz7A6gAavng-IOoAGph9j8BaABtsXu9gGgAdS51pMGoAGo9_uqDw",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Helm_103",
+                    "name": "Klappvisier",
+                    "icon": "helm_103_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/klappvisier"
+                },
+                "setItemsEquipped": ["Unique_Helm_Set_03_p2", "Unique_Chest_Set_03_p2", "Unique_Gloves_Set_03_p2", "Unique_Boots_Set_03_p2", "Unique_Pants_Set_03_p2", "Unique_Shoulder_Set_03_p2"]
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 3262
+        },
+        "level": 70,
+        "stats": {
+            "life": 0,
+            "damage": 938351.0,
+            "toughness": 1.39868E7,
+            "healing": 241386.0,
+            "armor": 0,
+            "strength": 77,
+            "dexterity": 9583,
+            "vitality": 5882,
+            "intelligence": 77,
+            "physicalResist": 0,
+            "fireResist": 892,
+            "coldResist": 762,
+            "lightningResist": 378,
+            "poisonResist": 580,
+            "arcaneResist": 789,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "Kwisatz",
+        "class": "demon-hunter",
+        "gender": 0,
+        "heroId": 62531019
+    }, {
+        "death": {
+            "killer": 5209,
+            "location": 288685,
+            "time": 1409958524
+        },
+        "items": {
+            "waist": {
+                "id": "Unique_Belt_105_x1",
+                "name": "Harrington Waistguard",
+                "icon": "unique_belt_105_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIwuX2kQsSBwgEFTrU4msd8Rn6fB2izxRWHWc-7OQdm4b24h0_8gnYMIsCOPoCQABQElgEYK4DgAFGkAEApQHxGfp8rQFDTkRRtQHAp0LUuAH_oo3AAsABBxj00Ja-DVAEWAI"
+            },
+            "offHand": {
+                "id": "Unique_Orb_Set_06_x1",
+                "name": "Firebird's Eye",
+                "icon": "unique_orb_set_06_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/ClkIzYzt5QoSBwgEFREKrtEd83AHrR2bBgDLHdqy8Ygd8xig4B2s05k5MIsCOKMCQABQElgEYM0CgAFGkAEApQHasvGIrQF-VrMutQHaw45xuAGWj4-HCsABChjd14_lBVAEWAKgAdXuyvwFoAHd14_lBQ",
+                "setItemsEquipped": ["Unique_Orb_Set_06_x1", "Unique_Boots_Set_06_x1"]
+            },
+            "mainHand": {
+                "id": "Unique_Sword_1H_103_x1",
+                "name": "Gift of Silaria",
+                "icon": "unique_sword_1h_103_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CosBCJ7LkJ8FEgcIBBUY0HtQHaEp3AUdnk-D3B3zcAetHevi5AUdFplnOx3RsFDHMIsCOIsCQABQElgEYLICaisKDAgAEMXRhOKAgIDAPhIbCMmhnskOEgcIBBUjlq6YMI8COABAAVgEkAEAgAFGkAEApQHr4uQFrQFmIwZQtQGb2dnvuAG9jcW0A8ABDBiwwN6HClAEWAI"
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_109_x1",
+                "name": "Pandemonium Loop",
+                "icon": "unique_ring_109_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClQImMbIqAQSBwgEFeewe7sdi_F6Qh2Yp47AHRAvyiodm4b24jCLAjjqAkAAUBJYBGCcA4ABRpABAKUBEC_KKq0B5hXbDbUBNlVdRLgBj8qHkwnAARAYsbyiyAhQBFgC"
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_019_x1",
+                "name": "Stone of Jordan",
+                "icon": "unique_ring_019_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIr_7cxQISBwgEFcegOLkdS7X5Sx1DTkRRHYQuNikdm4b24h0Nv1KzMIsCOLsCQABQElgEYOcCgAFGkAEApQGELjYprQGYp47AtQE2VV1EuAGcxaDLDMABBRjx_LrsCFAEWAI"
+            },
+            "neck": {
+                "id": "Unique_Amulet_105_x1",
+                "name": "Golden Gorget of Leoric",
+                "icon": "unique_amulet_105_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIyf_VgA8SBwgEFZv6XV0drNOZOR2L8XpCHTsnbyQdflazLh3zcAetMIsCOMsCQABQElgEYPkCgAFGkAEApQE7J28krQFADVULtQGwxURkuAGo0d2LBcABAhi26u_VC1AEWAI"
+            },
+            "torso": {
+                "id": "Unique_Chest_014_x1",
+                "name": "Tal Rasha's Relentless Pursuit",
+                "icon": "unique_chest_014_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CuUBCOHVx_ALEgcIBBWJeX1OHXMjBlAdm4b24h1DTkRRHX52VaEdos8UVh1yjh0hMIsCOP0CQABQElgEYLEDaisKDAgAEPnlhOKAgIDAPhIbCISk2qQGEgcIBBXXXbZ6MIsCOABAAVgEkAEAaisKDAgAEITmhOKAgIDAPhIbCO-epbkCEgcIBBXXXbZ6MIsCOABAAVgEkAEAaisKDAgAEJzlhOKAgIDAPhIbCNPElMsHEgcIBBXXXbZ6MI8COABAAVgEkAEAgAFGkAEApQGizxRWrQE7J28ktQExIhlguAHUgaPoBsABBBiS5uvnCVAEWAKgAZLm6-cJ",
+                "setItemsEquipped": ["Unique_Chest_014_x1"]
+            },
+            "feet": {
+                "id": "Unique_Boots_Set_06_x1",
+                "name": "Firebird's Tarsi",
+                "icon": "unique_boots_set_06_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cl4IgP2e_gYSBwgEFVWkNtAdm4b24h3r4uQFHaLPFFYdxzb8Lx1yjh0hHfPVR7QwiwI4mwJAAFASWARgxAKAAUaQAQClAevi5AWtAUNORFG1AaBFm3-4AZLD8ZkGwAEBGNXuyvwFUARYAqAB1e7K_AWgAd3Xj-UF",
+                "setItemsEquipped": ["Unique_Orb_Set_06_x1", "Unique_Boots_Set_06_x1"]
+            },
+            "hands": {
+                "id": "Unique_Gloves_014_x1",
+                "name": "Magefist",
+                "icon": "unique_gloves_014_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIkfbMqQgSBwgEFaLQXCIdRXvG3R2Yp47AHZsGAMsdfnZVoR3zcAetMIsCOOYBQABQElgEYIkCgAFGkAEApQGbBgDLrQF-VrMutQHJW5KkuAHphaC3BMABAxjEwualBFAEWAI"
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_008_x1",
+                "name": "Aughild's Power",
+                "icon": "unique_shoulder_008_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/ClQI_5D8nQ4SBwgEFbvhM4sdm4b24h19TLwLHUNORFEddEWniR1yjh0hHQFgLbEwjwI4-gFAAFASWARgnwKQAQClAX1MvAutARAvyiq4AbmIwzLAAQQYifngzA5QBFgCoAGJ-eDMDg",
+                "setItemsEquipped": ["Unique_Shoulder_008_x1"]
+            },
+            "legs": {
+                "id": "Unique_Pants_101_x1",
+                "name": "Hexing Pants of Mr. Yan",
+                "icon": "unique_pants_101_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CrIBCLT2jJ0CEgcIBBX1YyvUHfPVR7Qd2rLxiB1DTkRRHSCNN1Qdm4b24jCLAjiJAkAAUBJYBGCwAmorCgwIABDq3ITigICAwD4SGwiY_dS1BBIHCAQV1122ejCPAjgAQAFYBJABAGorCgwIABD13ITigICAwD4SGwikksLqBBIHCAQV1122ejCPAjgAQAFYBJABAIABRpABAKUB2rLxiK0Bj5DKULUBn5LVpbgBrs2DN8ABAhiV8KS9BVAEWAI"
+            },
+            "bracers": {
+                "id": "Unique_Bracer_007_x1",
+                "name": "Strongarm Bracers",
+                "icon": "unique_bracer_007_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIu72SowoSBwgEFSPaCDcdf46HzB0gjTdUHUNORFEdm4b24h3mFdsNMIsCOIYDQABQElgEYLsDgAFGkAEApQEgjTdUrQFADVULtQHbLMrLuAG6iIS7DcABBBjG6MbwBlAEWAI"
+            },
+            "head": {
+                "id": "Unique_Helm_003_x1",
+                "name": "Andariel's Visage",
+                "icon": "unique_helm_003_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClQI6YmtkQgSBwgEFTYA7BMdOnXajB1-dlWhHfNwB60dQA1VCzCLAjjvAkAAUBJYBGChA4ABRpABAKUBOnXajK0B5hXbDbUBf_lOXbgBmveTnAnAARMY7IDgvgJQBFgC"
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 7454
+        },
+        "level": 70,
+        "stats": {
+            "life": 0,
+            "damage": 927961.0,
+            "toughness": 3976190.0,
+            "healing": 7775.0,
+            "armor": 0,
+            "strength": 77,
+            "dexterity": 77,
+            "vitality": 4017,
+            "intelligence": 9061,
+            "physicalResist": 0,
+            "fireResist": 1147,
+            "coldResist": 997,
+            "lightningResist": 1150,
+            "poisonResist": 1477,
+            "arcaneResist": 1154,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "Juggsernaut",
+        "class": "wizard",
+        "gender": 1,
+        "heroId": 48671401
+    }, {
+        "death": {
+            "killer": -1,
+            "location": -1,
+            "time": 1402339381
+        },
+        "items": {
+            "waist": {
+                "id": "Unique_Belt_105_x1",
+                "name": "Harrington Waistguard",
+                "icon": "unique_belt_105_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI9_ic0wUSBwgEFTrU4msdQ05EUR1Sqb9lHWc-7OQdm4b24h0_8gnYMIsCOIIDQABQElgEYK8DgAFGkAEApQFnPuzkrQE7J28ktQHAp0LUuAHl_NrSCsABARj00Ja-DVAGWAI"
+            },
+            "offHand": {
+                "id": "Unique_Mojo_009_x1",
+                "name": "Thing of the Deep",
+                "icon": "unique_mojo_009_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI1JiawQoSBwgEFctHs8Ydipnt6h2wgiblHX5Wsy4d83AHrR3FdKFGMIsCONECQABQElgEYPgCgAFGkAEApQGKme3qrQGbBgDLtQEsYdj3uAHa-ZvMBsABCRjp4OWUB1AGWAI"
+            },
+            "mainHand": {
+                "id": "Unique_Sword_1H_011_x1",
+                "name": "Devil Tongue",
+                "icon": "unique_sword_1h_011_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CosBCJyzz5EGEgcIBBU2pzdOHbHk6hEdmwYAyx3zcAetHdGwUMcdlz-d2h2eT4PcMIsCOLQCQABQElgEYNgCaisKDAgAEMzQg4KHgIDgOBIbCK3i_9YLEgcIBBUilq6YMI8COABAAVgEkAEAgAFGkAEApQGbBgDLrQFmIwZQtQGb2dnvuAHl2sScC8ABBhjsnL3jCVAGWAI"
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_101_x1",
+                "name": "The Tall Man's Finger",
+                "icon": "unique_ring_101_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkImuG49w8SBwgEFd9Nd7sdrNOZOR24vCB6HYvxekId0p-eRB2bhvbiMIsCOJ0CQABQElgEYL4CgAFGkAEApQHSn55ErQHmFdsNtQE2VV1EuAGi3I65C8ABBBjByMXICFAGWAI"
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_019_x1",
+                "name": "Stone of Jordan",
+                "icon": "unique_ring_019_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI9-HezQMSBwgEFcegOLkd2T_Unx1mIwZQHUANVQsdm4b24h0Nv1KzMIsCOPIBQABQElgEYI8CgAFGkAEApQFmIwZQrQHmFdsNtQE2VV1EuAHpw8niC8ABBBjx_LrsCFAGWAI"
+            },
+            "neck": {
+                "id": "Unique_Amulet_004_x1",
+                "name": "Xephirian Amulet",
+                "icon": "unique_amulet_004_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI6cy4oQ4SBwgEFZlFCFsdHaONxB10RaeJHUANVQsdfnZVoR3zcAetMIsCOOcCQABQElgEYJEDgAFGkAEApQF0RaeJrQGwwQlytQGwxURkuAGP24XeB8ABAxiylsKwC1AGWAI"
+            },
+            "torso": {
+                "id": "Unique_ChestArmor_028_x1",
+                "name": "Blackthorne's Surcoat",
+                "icon": "unique_chestarmor_028_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CtcBCJWcv7gMEgcIBBUPMyD5HT_yCdgdrNOZOR2bhvbiHTsnbyQdQ05EUR1zIwZQMIsCOPICQABIBFASWARgnQNqKwoMCAAQ4KSR0YCAgIA2EhsIwob7ywoSBwgEFYQnlLEwiwI4AEABWASQAQBqKwoMCAAQ6KSR0YCAgIA2EhsI4vy8lQcSBwgEFYQnlLEwiwI4AEABWASQAQBqKwoMCAAQ6tnMyoCAgKA-EhsIobTZoAYSBwgEFYQnlLEwiwI4AEABWASQAQCAAUaNAcyqkE6QAQC1ATEiGWAY4bP-bVAGWAKgAeGz_m0",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_10",
+                        "name": "Lovely Dye",
+                        "icon": "dye_10_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/lovely-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Unique_Chest_026_x1",
+                    "name": "Aughild's Rule",
+                    "icon": "unique_chest_026_x1_demonhunter_male",
+                    "displayColor": "green",
+                    "tooltipParams": "recipe/aughilds-rule",
+                    "setItemsEquipped": ["Unique_Chest_026_x1"]
+                },
+                "setItemsEquipped": ["Unique_ChestArmor_028_x1"]
+            },
+            "feet": {
+                "id": "Unique_Boots_103_x1",
+                "name": "Illusory Boots",
+                "icon": "unique_boots_103_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClsIpJLgyQISBwgEFRjc-XUdP_IJ2B3HNvwvHevi5AUdOydvJB2bhvbiMIsCOPsBQABIBFASWARgmAKAAUaQAQClAevi5AWtAUNORFG1AaBFm3-4Abb52qABwAEEGLDwzt8OUAZYAg",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_10",
+                        "name": "Lovely Dye",
+                        "icon": "dye_10_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/lovely-dye"
+                    }
+                }
+            },
+            "hands": {
+                "id": "Unique_Gloves_003_x1",
+                "name": "Tasker and Theo",
+                "icon": "unique_gloves_003_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CmEI34D1wAYSBwgEFcArSiIdRXvG3R06ddqMHX5Wsy4dfnZVoR2BgcbEMIsCOOYCQABIBFASWARgjwOAAUaNAcdbkqSQAQClATp12oytAZinjsC1AclbkqS4AbHompIHwAECGICv0aQEUAZYAg",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_10",
+                        "name": "Lovely Dye",
+                        "icon": "dye_10_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/lovely-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Gloves_206",
+                    "name": "Archon Gauntlets",
+                    "icon": "gloves_206_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/archon-gauntlets"
+                }
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_003_x1",
+                "name": "Vile Ward",
+                "icon": "unique_shoulder_003_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CmUImN-0dxIHCAQV1iMxix2s05k5HcStOVwdm4b24h2izxRWHSCNN1QdOydvJDCLAjixAkAASARQElgEYNQCgAFGjQF30eKJkAEApQGizxRWrQFDTkRRtQHS-MgVuAHHp5aEDMABBBjT8PbMDlAGWAI",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_10",
+                        "name": "Lovely Dye",
+                        "icon": "dye_10_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/lovely-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Unique_Shoulder_Set_09_x1",
+                    "name": "Jade Harvester's Joy",
+                    "icon": "unique_shoulder_set_09_x1_demonhunter_male",
+                    "displayColor": "green",
+                    "tooltipParams": "item/jade-harvesters-joy",
+                    "setItemsEquipped": ["Unique_Shoulder_Set_09_x1"]
+                }
+            },
+            "legs": {
+                "id": "Unique_Pants_101_x1",
+                "name": "Hexing Pants of Mr. Yan",
+                "icon": "unique_pants_101_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CrkBCMrzkPYPEgcIBBX1YyvUHR2jjcQdOJ3kBB36YkAXHY-QylAdm4b24jCLAjirAkAASARQElgEYM4CaisKDAgAEK6Us5CAgIDgPRIbCLLhk-cGEgcIBBWEJ5SxMIsCOABAAVgEkAEAaikKDAgAEIyDssCAgIDADhIZCNC69cQLEgcIBBWEJ5SxMI8COABAAZABAIABRo0BV47VpZABAKUB-mJAF60BQ05EUbUBn5LVpbgBtu698gvAAQQYlfCkvQVQBlgC",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_10",
+                        "name": "Lovely Dye",
+                        "icon": "dye_10_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/lovely-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Pants_101",
+                    "name": "Legwraps",
+                    "icon": "pants_101_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/legwraps"
+                }
+            },
+            "bracers": {
+                "id": "Unique_Bracer_007_x1",
+                "name": "Strongarm Bracers",
+                "icon": "unique_bracer_007_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIypqllAESBwgEFSPaCDcdco4dIR3c174EHUNORFEdm4b24h3mFdsNMIsCOPYBQABQElgEYJ4CgAFGkAEApQHc174ErQFADVULtQHbLMrLuAHa7JnZBcABAxjG6MbwBlAGWAI"
+            },
+            "head": {
+                "id": "Unique_VoodooMask_102_x1",
+                "name": "Mask of Jeram",
+                "icon": "unique_voodoomask_102_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CowBCLvOo-YIEgcIBBWSHj_QHXGLd_AdhA4avR07J28kHWYjBlAd83AHrTCLAjjwAkAASARQElgEYJsDaikKDAgAEM_NkYqBgIDALRIZCLmg2r0EEgcIBBWEJ5SxMI8COABAAZABAIABRo0Be_lOXZABAKUBhA4ava0B5hXbDbUBmQD1JLgBit7y2w_AAQ0Y24WH_AVQBlgC",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_10",
+                        "name": "Lovely Dye",
+                        "icon": "dye_10_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/lovely-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Helm_204",
+                    "name": "Hellscape Mask",
+                    "icon": "helm_204_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/hellscape-mask"
+                }
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 3745
+        },
+        "level": 70,
+        "stats": {
+            "life": 0,
+            "damage": 576192.0,
+            "toughness": 4849720.0,
+            "healing": 1928.0,
+            "armor": 0,
+            "strength": 815,
+            "dexterity": 77,
+            "vitality": 3732,
+            "intelligence": 6787,
+            "physicalResist": 0,
+            "fireResist": 1533,
+            "coldResist": 1833,
+            "lightningResist": 1533,
+            "poisonResist": 1533,
+            "arcaneResist": 1681,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "StashGuy",
+        "class": "witch-doctor",
+        "gender": 1,
+        "heroId": 31778321
+    }, {
+        "death": {
+            "killer": 4300,
+            "location": 288685,
+            "time": 1400603522
+        },
+        "items": {
+            "waist": {
+                "id": "Unique_Belt_105_x1",
+                "name": "Harrington Waistguard",
+                "icon": "unique_belt_105_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI44S2pAoSBwgEFTrU4msdZz7s5B1DTkRRHdqy8Ygdm4b24h0_8gnYMIsCOIICQABQElgEYLMCgAFGkAEApQHasvGIrQFSqb9ltQHAp0LUuAGI2uizAcABAhj00Ja-DVAEWAA"
+            },
+            "offHand": {
+                "id": "Unique_Orb_101_x1",
+                "name": "Mirrorball",
+                "icon": "unique_orb_101_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CkMIo67U-gcSBwgEFZKix6cdMPvsnx2bBgDLHX5Wsy4duLwgeh3zcAetMIsCOPsBQABQElgEYKsCgAFGkAEAtQHaw45xGNv1woMLUARYAA"
+            },
+            "mainHand": {
+                "id": "Unique_Wand_002_x1",
+                "name": "Gesture of Orpheus",
+                "icon": "unique_wand_002_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CoYBCPqX1IMBEgcIBBU5NNhuHUlOdf4d0O5oMR2ELjYpHfNwB60dlbH28jCLAjiMAkAAUBJYBGC-AmorCgwIABClw6WFhoCAwBgSGwj9ubLWBRIHCAQVIpaumDCLAjgAQAFYBJABAIABRpABAKUBhC42Ka0BZiMGULUBnvhIBbgBlJav9Q7AAQMY8tDB7Q1QBFgA"
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_107_x1",
+                "name": "Ring of Royal Grandeur",
+                "icon": "unique_ring_107_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkIrqiwlw0SBwgEFSWYersdrBmWlh24vCB6HZHqQb8dfnZVoR1a0ZldMIsCOPoBQABQElgEYKoCgAFAkAEApQGR6kG_rQGo1nX8tQEyVV1EuAGH3K77AcABARi1n6vICFAEWAA"
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_023_x1",
+                "name": "Obsidian Ring of the Zodiac",
+                "icon": "unique_ring_023_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/Cl0IofaF0AoSBwgEFQJvR7kdS7X5Sx2svNNTHeYV2w0dOydvJB3DTlxRHZuG9uIwiwI4wQNAAFASWARgwQOAAUaQAQClATsnbyStAZinjsC1ATZVXUS4AYieyDPAAQMY-8PE6whQBFgA"
+            },
+            "neck": {
+                "id": "Unique_Amulet_015_x1",
+                "name": "Mara's Kaleidoscope",
+                "icon": "unique_amulet_015_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI873v8AoSBwgEFXvqGlsdHaONxB2_uWIoHYvxekIdflazLh3zcAetMIsCOKYCQABQElgEYNsCgAFGkAEApQG_uWIorQFADVULtQGwxURkuAHFlfvIA8ABBBj2qdexC1AEWAA"
+            },
+            "torso": {
+                "id": "Unique_Chest_006_x1",
+                "name": "Cindercoat",
+                "icon": "unique_chest_006_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CugBCOKvpKsHEgcIBBXKeWxOHavTmTkdCTMWRh3H2SlOHUANVQsdWtGZXTCLAji3AkAASAVQElgEYO4CaisKDAgAEOKEq7SAgIDAFhIbCLethJ4HEgcIBBXWXbZ6MIsCOABAAVgEkAEAaisKDAgAEPqDq7SAgIDAFhIbCJLS6-8EEgcIBBXWXbZ6MI8COABAAVgEkAEAaisKDAgAELah7J2AgIDAFBIbCIKSzKgPEgcIBBXWXbZ6MIsCOABAAVgEkAEAgAFFjQEsIhlgkAEApQEJMxZGrQFzIwZQtQEwIhlguAHu0vLSCcABCBiU5-PmCVAEWAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "ChestArmor_203",
+                    "name": "Warlord Plate",
+                    "icon": "chestarmor_203_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/warlord-plate"
+                }
+            },
+            "feet": {
+                "id": "Unique_Boots_015_x1",
+                "name": "Cain's Travelers",
+                "icon": "unique_boots_015_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CkcIruD71QgSBwgEFbrkt3Mdxzb8Lx07J28kHUNORFEdm4b24h1yjh0hHT_yCdgwjwI45AFAAEgFUBJYBGCSAo0Bm0Wbf5ABABj0kr-7DlAEWACgAZfiweEFoAH0kr-7Dg",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Boots_203",
+                    "name": "Warlord Boots",
+                    "icon": "boots_203_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/warlord-boots"
+                },
+                "setItemsEquipped": ["Unique_Pants_010_x1", "Unique_Boots_015_x1"]
+            },
+            "hands": {
+                "id": "Unique_Gloves_014_x1",
+                "name": "Magefist",
+                "icon": "unique_gloves_014_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI9eeSzgcSBwgEFaLQXCIdcYt38B2Yp47AHX5Wsy4dfnZVoR3zcAetMIsCONgBQABQElgEYIUCgAFGkAEApQGYp47ArQGYp47AtQHJW5KkuAGbiLT6DMABARjEwualBFAEWAA"
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_008_x1",
+                "name": "Aughild's Power",
+                "icon": "unique_shoulder_008_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CkEIv9iD4QgSBwgEFbvhM4sdQ05EUR24vCB6HZuG9uIddEWniR3ErTlcHUV7xt0wjwI48AFAAEgFUBJYBGCfApABABiJ-eDMDlAEWACgAYn54MwOoAGwlPW_Ag",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                },
+                "setItemsEquipped": ["Unique_Shoulder_008_x1", "Unique_Helm_014_x1"]
+            },
+            "legs": {
+                "id": "Unique_Pants_010_x1",
+                "name": "Cain's Habit",
+                "icon": "unique_pants_010_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CrcBCOy8ptELEgcIBBV0x-fRHTid5AQdQ05EUR07J28kHfEZ-nwdcYt38B0_8gnYMI8CON0CQABIBVASWARgmANqKwoMCAAQ4PDKrYCAgMA-EhsIioeqkwgSBwgEFdZdtnowiwI4AEABWASQAQBqKwoMCAAQ-e7KrYCAgMA-EhsI8aWQiAkSBwgEFdZdtnowjwI4AEABWASQAQCNAZqS1aWQAQClATid5AStAY-QylC4AZPk44AHwAEBGJfiweEFUARYAKABl-LB4QWgAfSSv7sO",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Pants_203",
+                    "name": "Warlord Leg Plates",
+                    "icon": "pants_203_demonhunter_male",
+                    "displayColor": "white",
+                    "tooltipParams": "item/warlord-leg-plates"
+                },
+                "setItemsEquipped": ["Unique_Pants_010_x1", "Unique_Boots_015_x1"]
+            },
+            "bracers": {
+                "id": "Unique_Bracer_103_x1",
+                "name": "Reaper's Wraps",
+                "icon": "unique_bracer_103_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClUIp7-7zA8SBwgEFUDRWzkd59c4_h3mFdsNHYQuNikdm4b24h1DTkRRHbdbVE0wjwI46QFAAFASWARglwKQAQClAYQuNimtAUANVQu4Abzuqq0KwAELGIDF3pUHUARYAA"
+            },
+            "head": {
+                "id": "Unique_Helm_014_x1",
+                "name": "Aughild's Spike",
+                "icon": "unique_helm_014_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/Cl0IxNufxQ4SBwgEFRil_hMdOydvJB3zcAetHX7T9HUdmwYAyx1yjh0hHUu1-UswjwI48gJAAEgFUBJYBGCwA40BNgDsE5ABAKUBOydvJK0B5hXbDbgBhIuk9A3AAQEYsJT1vwJQBFgAoAGJ-eDMDqABsJT1vwI",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                },
+                "transmogItem": {
+                    "id": "Unique_Helm_003_x1",
+                    "name": "Andariel's Visage",
+                    "icon": "unique_helm_003_x1_demonhunter_male",
+                    "displayColor": "orange",
+                    "tooltipParams": "item/andariels-visage-mCpro"
+                },
+                "setItemsEquipped": ["Unique_Shoulder_008_x1", "Unique_Helm_014_x1"]
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 4874
+        },
+        "level": 70,
+        "stats": {
+            "life": 0,
+            "damage": 662188.0,
+            "toughness": 3714180.0,
+            "healing": 0.0,
+            "armor": 0,
+            "strength": 237,
+            "dexterity": 250,
+            "vitality": 4028,
+            "intelligence": 7837,
+            "physicalResist": 0,
+            "fireResist": 972,
+            "coldResist": 1131,
+            "lightningResist": 972,
+            "poisonResist": 972,
+            "arcaneResist": 1239,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "IsaacNewton",
+        "class": "wizard",
+        "gender": 0,
+        "heroId": 45363784
+    }, {
+        "death": {
+            "killer": 332679,
+            "location": 288454,
+            "time": 1413320838
+        },
+        "items": {
+            "waist": {
+                "id": "Belt_201",
+                "name": "Proud Orbit",
+                "icon": "belt_201_monk_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkUI7NOuqwsSBwgEFbmnQtQdOcl0sB3DBLc4HXqAkGgd7f73vx02ssDVIgsIABXB_gEAGAIgADCJAjjOAkAAUA5g9AKQAQAYjeHquwVQCFgA"
+            },
+            "offHand": {
+                "id": "Mace_1H_302",
+                "name": "Apprentice Reminder",
+                "icon": "mace_1h_302_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/Co0BCLHtoZsJEgcIBBWCGEudHeJvzIQdixy-lh1pSWnqHWYjBlAdSE51_h2gKdwFIgsIABWx_gEAGAYgFjCLAjiaBUAAUBBYBGDtBWopCgwIABDJuNyggICAoAYSGQid-L7gBRIHCAQVH5aumDCLAjgAQAGQAQCQAQClAYscvpatAcj6vKC4AczZiZYEwAEIGPudp6sMUAhYAA"
+            },
+            "mainHand": {
+                "id": "Unique_Sword_1H_103_x1",
+                "name": "Gift of Silaria",
+                "icon": "unique_sword_1h_103_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CosBCJ7_4qQJEgcIBBUY0HtQHaEp3AUdaklp6h1mIwZQHevi5AUdFplnOx2DJzvIMIsCOKgCQABQElgEYMoCaisKDAgAEJ27kICBgIDAHhIbCMvTxYQKEgcIBBUjlq6YMIsCOABAAVgEkAEAgAFGkAEApQHr4uQFrQHJ-rygtQGb2dnvuAGwt8nUDMABAhiwwN6HClAIWAA"
+            },
+            "rightFinger": {
+                "id": "Unique_Ring_020_x1",
+                "name": "Bul-Kathos's Wedding Band",
+                "icon": "unique_ring_020_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CkMImYX0kg0SBwgEFd_JRbkdqdOZOR0fuJlSHVA15Tkdb2mxyh3HtEUuMIsCOL0CQABQElgEYOECgAE8kAEAtQEyVV1EGMHY0esIUAhYAA"
+            },
+            "leftFinger": {
+                "id": "Unique_Ring_103_x1",
+                "name": "Rogar's Huge Stone",
+                "icon": "unique_ring_103_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CkIIleLgeBIHCAQVoWZ4ux1X1RqVHUVvcEMdLrRURR0L3xl6HTd12owwiwI4gAJAAFASWARgnQKAATyQAQC1ATJVXUQYveW8yAhQCFgA"
+            },
+            "neck": {
+                "id": "x1_Amulet_norm_unique_25",
+                "name": "Hellfire Amulet",
+                "icon": "x1_amulet_norm_unique_25_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/Cj8InrKa0wESBwgEFYdQZC0dchA6oB3J-rygHX5Wsy4dVyLVqh2bBgDLHTiywNUwjwI44gJAAFASWARgigOQAQAYjsKi1gVQCFgA"
+            },
+            "torso": {
+                "id": "ChestArmor_206",
+                "name": "Vanguard Volition",
+                "icon": "chestarmor_206_monk_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CtUBCP6ZjskFEgcIBBUvIhlgHVKYe7gdY6pF0R1zIwZQHS60VEUdbot38B20W1RNIgsIARV9QgMAGCAgIDCPAjimBEAASAVQEFgEYOQEaisKDAgAEMqVmreBgICgLxIbCIWW-t4MEgcIBBWBJ5SxMIsCOABAAVgEkAEAaisKDAgAEN2VmreBgICgLxIbCIqaxsIDEgcIBBWBJ5SxMIsCOABAAVgEkAEAaisKDAgAEOqVmreBgICgLxIbCPPpuasBEgcIBBWBJ5SxMIsCOABAAVgEkAEAkAEAGN6IyYEMUAhYAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                }
+            },
+            "feet": {
+                "id": "Unique_Boots_102_x1",
+                "name": "Boots of Disregard",
+                "icon": "unique_boots_102_x1_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClkI-eKA9gQSBwgEFbdP-XUdoSncBR07J28kHaLPFFYdII03VB1DTkRRMIsCOIUDQABQElgEYLEDgAFGkAEApQEgjTdUrQHx02rVtQGgRZt_uAG3kZzvBcABAhjuvsrfDlAIWAA"
+            },
+            "hands": {
+                "id": "Gloves_202",
+                "name": "Agile Vices",
+                "icon": "gloves_202_monk_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkcIvY_4rggSBwgEFcNbkqQdmAYAyx0URQDiHcX6vKAdNnXajB1vi3fwIgsIABW4_gEAGBIgEjCJAjjEBEAASAVQDmCFBZABABj5kO22C1AIWAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                }
+            },
+            "shoulders": {
+                "id": "Unique_Shoulder_Set_11_x1",
+                "name": "Sunwuko's Balance",
+                "icon": "unique_shoulder_set_11_x1_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/CkgIkfH6twMSBwgEFfCG8IkdoSncBR1xi3fwHX4s5NIdQ05EUR07J28kHfHTatUwiwI4jANAAFASWARguQOAAUaQAQC1AdL4yBUYn-T74A5QCFgAoAGf5PvgDg",
+                "setItemsEquipped": ["Unique_Shoulder_Set_11_x1"]
+            },
+            "legs": {
+                "id": "Pants_204",
+                "name": "Jester's Guard",
+                "icon": "pants_204_monk_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkcIpNCdigISBwgEFZuS1aUdXhg42R0utFRFHR2d5AQdgC4uwR1vi3fwIgsIABWu_gEAGCAgIDCJAjjcA0AASAVQDmCaBJABABjJtdOiC1AIWAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                }
+            },
+            "bracers": {
+                "id": "Unique_Bracer_001_1xx",
+                "name": "Wondrous Deflectors",
+                "icon": "unique_bracer_001_1xx_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/Cj8I3syR3A8SBwgEFRVnthcdYzrU4B03ddqMHemcvcMdb2mxyh2GJM3IHUANVQswjwI4jQNAAFASWARgugOQAQAYqpyz-wJQCFgA"
+            },
+            "head": {
+                "id": "Helm_202",
+                "name": "Grim Impunity",
+                "icon": "helm_202_monk_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CnkI_aa0gQsSBwgEFXn5Tl0dxfq8oB3u724kHWYjBlAdlgYAyx1ui3fwHe2GrzEiCwgBFbVEAwAYECAcMIkCOP4DQABIBVAQYLcEaisKDAgAEOiWmreBgICgLxIbCLbx4r8BEgcIBBVp9YtfMIsCOABAAVgEkAEAkAEAGPLl99QLUAhYAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_17",
+                        "name": "Royal Dye",
+                        "icon": "dye_17_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/royal-dye"
+                    }
+                }
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 314
+        },
+        "level": 64,
+        "stats": {
+            "life": 0,
+            "damage": 159185.0,
+            "toughness": 1788230.0,
+            "healing": 36082.6,
+            "armor": 0,
+            "strength": 71,
+            "dexterity": 5031,
+            "vitality": 3209,
+            "intelligence": 71,
+            "physicalResist": 0,
+            "fireResist": 417,
+            "coldResist": 417,
+            "lightningResist": 417,
+            "poisonResist": 417,
+            "arcaneResist": 417,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "StashGuy",
+        "class": "monk",
+        "gender": 0,
+        "heroId": 31778375
+    }, {
+        "death": {
+            "killer": 5508,
+            "location": 119290,
+            "time": 1361428796
+        },
+        "items": {
+            "waist": {
+                "id": "BarbBelt_203",
+                "name": "Sheath Demise",
+                "icon": "barbbelt_203_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkYIyYinywQSBwgEFZL35H0d_Wwdqh2qXu51HRwSc-Adh_V7bh2gbLMUHaRHeJ0iCwgBFWdCAwAYBiAmMAk4jANAAFAQYMUDGKTep94PUAJYAg"
+            },
+            "offHand": {
+                "id": "Unique_Shield_009_104",
+                "name": "Stormshield",
+                "icon": "unique_shield_009_104_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/CjkI-YenjgMSBwgEFZu1pD0dIYc-Vh1OT9lkHcQayXsd1maKlB2gbLMUHVtOgMkwCTidAkAAUBJgyQIYttal2gdQAlgC"
+            },
+            "mainHand": {
+                "id": "Sword_1H_208",
+                "name": "Killing Breaker",
+                "icon": "sword_1h_208_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkEI76CUjg0SBwgEFWDV2e8doGyzFB0OXPT8HSxfrZEdU4lJ4B3nvppxIgsIABWr_gEAGBQgQDAJOLoEQABQDmCFBRi_qrGCAlACWAI"
+            },
+            "rightFinger": {
+                "id": "Ring_21",
+                "name": "Glamour Clash",
+                "icon": "ring_21_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkYI3PXQxgYSBwgEFTJVXUQdW06AyR0MAz6LHX2NhIUd10zkrh3I0vNlHV_MtigiCwgBFW1CAwAYJiAAMAk4rwNAAFAQYOwDGOTU6sUIUAJYAg"
+            },
+            "leftFinger": {
+                "id": "Ring_23",
+                "name": "Reflective Prize",
+                "icon": "ring_23_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CjwImMeCng8SBwgEFTRVXUQdW06AyR2E6UsMHTRWjfQdaA4XdSILCAAVrUQDABgSIAwwCTjYA0AAUAxgmAQY6NTqxQhQAlgC"
+            },
+            "neck": {
+                "id": "Amulet14",
+                "name": "The Warrant",
+                "icon": "amulet14_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkYI-Zy3pA8SBwgEFa3FRGQd5-Wp8B0TRT_iHZ5ssxQdrGx__R2EEXUVHeNElDUiCwgBFcJEAwAYDCAoMAk4_wJAAFAQYLUDGNqWpsQMUAJYAg"
+            },
+            "torso": {
+                "id": "ChestArmor_206",
+                "name": "Soldier's Confession",
+                "icon": "chestarmor_206_barbarian_female",
+                "displayColor": "yellow",
+                "tooltipParams": "item/Cr8BCMqbouwPEgcIBBUvIhlgHbvx7BodkwJj6h1oDhd1HWzQbvIdvjBICB1bToDJIgsIARVyQgMAGCYgDDAPOOYDQABIAVAQWARgqARqJQoMCAAQheuM1ICAgMA3EhUI_8TW5wYSBwgEFWL1i18wCTgAQAFqJQoMCAAQiuuM1ICAgMA3EhUI_uCPjwMSBwgEFWL1i18wCTgAQAFqJQoMCAAQvIGF_YCAgKA4EhUI_YCI8AcSBwgEFWL1i18wCTgAQAEY3ojJgQxQAlgC",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                }
+            },
+            "feet": {
+                "id": "Boots_203",
+                "name": "Far Striders",
+                "icon": "boots_203_barbarian_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkMIq8io7wgSBwgEFZtFm38dHhdaox1bToDJHYi-viEdWGlQXx39bB2qIgsIABXFRAMAGBYgEDAJOLEEQABIAVAOYPsEGLaW2vkPUAJYAg",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                }
+            },
+            "hands": {
+                "id": "Gloves_206",
+                "name": "Tenacious Clasp",
+                "icon": "gloves_206_barbarian_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkoIj_3jlwESBwgEFcdbkqQdoWyzFB11sezwHUaT04kdDmt__R2yV9XuHTV_o0kiCwgAFa1EAwAYDiAgMA84iARAAEgBUBBYBGDPBBjxkO22C1ACWAI",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                }
+            },
+            "shoulders": {
+                "id": "Shoulders_206",
+                "name": "Courageous Brute",
+                "icon": "shoulders_206_barbarian_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/Cj4I_NiFugMSBwgEFdD4yBUdnGyzFB1bToDJHQ0-P7sd3iVSyyILCAAVzP4BABgaICAwCTiDBEAASAFQDGDIBBig48fcAlACWAI",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_20",
+                        "name": "Abyssal Dye",
+                        "icon": "dye_20_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/abyssal-dye"
+                    }
+                }
+            },
+            "legs": {
+                "id": "Pants_204",
+                "name": "Resilient Guard",
+                "icon": "pants_204_barbarian_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/Cm0I_Lrt3AUSBwgEFZuS1aUdKRJz4B1Gk9OJHUcJYpwdtvHsGh2UvzSKHaaTxPYiCwgAFa1EAwAYBCAgMAk46ANAAFAQYKoEaiUKDAgAEJXSiPyAgICAOBIVCOSym9sKEgcIBBVK9YtfMA04AEABGMm106ILUAJYAg"
+            },
+            "bracers": {
+                "id": "Bracers_206",
+                "name": "Archer's Spectrum",
+                "icon": "bracers_206_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkgIqOPa5wwSBwgEFdksyssdoWyzFB12HvYNHUAA4gYdzJyAJx3MbHuDHUxhSdQiCwgBFWZCAwAYCCAUMA843QJAAFAQWARgkAMYzcyuwwZQAlgC"
+            },
+            "head": {
+                "id": "Unique_Helm_008_104",
+                "name": "Immortal King's Triumph",
+                "icon": "unique_helm_008_104_demonhunter_male",
+                "displayColor": "green",
+                "tooltipParams": "item/ClwI8vqJpwcSBwgEFYdTxZEdyOa6ah2H9XtuHXYe9g0d1maKlB2Ivr4hHYYCY-owCTjwAUAAUBJglgJqIQoMCAAQg7vvpoGAgOAQEhEIABIHCAQVYvWLXzAJOABAARjxsdXjDVACWAKgAfGx1eMN",
+                "setItemsEquipped": ["Unique_Helm_008_104"]
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 3638
+        },
+        "level": 60,
+        "stats": {
+            "life": 0,
+            "damage": 39566.0,
+            "toughness": 0.0,
+            "healing": 0.0,
+            "armor": 0,
+            "strength": 2437,
+            "dexterity": 591,
+            "vitality": 1014,
+            "intelligence": 380,
+            "physicalResist": 0,
+            "fireResist": 678,
+            "coldResist": 661,
+            "lightningResist": 706,
+            "poisonResist": 679,
+            "arcaneResist": 662,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "Loki",
+        "class": "barbarian",
+        "gender": 1,
+        "heroId": 23262477
+    }, {
+        "death": {
+            "killer": 3349,
+            "location": 60756,
+            "time": 1361581646
+        },
+        "items": {
+            "waist": {
+                "id": "Belt_205",
+                "name": "Reflective Brace",
+                "icon": "belt_205_wizard_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CjwIv_uFhwMSBwgEFb2nQtQdvTBICB2ebLMUHY-8lrcdslfV7iILCAAVrUQDABgSICYwCTiRA0AAUAxg-wMYheHquwVQBFgA"
+            },
+            "offHand": {
+                "id": "Orb_103",
+                "name": "Enduring Progeny",
+                "icon": "orb_103_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/Cm0Ih5DflQcSBwgEFZa_jnEdvVvoSB1dVKRHHVmgG9gdj4LFfR2UvzSKHQxc9PwiCwgAFa3-AQAYICAcMAk4hgJAAFAQYOECaiUKDAgAEIjX6qeBgIDAIBIVCLe85e8HEgcIBBX2ntirMAk4AEABGKz-9ZgOUARYAA"
+            },
+            "mainHand": {
+                "id": "Spear_205",
+                "name": "Deadly Stock",
+                "icon": "spear_205_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CjwIqdiN6QwSBwgEFZEf9vkdwTBICB1ysMl_HZ9ssxQd576acSILCAAVzP4BABgCIA4wCTjiAkAAUAxgxwMY3YHPYFAEWAA"
+            },
+            "rightFinger": {
+                "id": "Ring_18",
+                "name": "Cycle Cure",
+                "icon": "ring_18_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkYIv-Th5AoSBwgEFRhVXUQd0cIitx07ncvIHUM074YdjSVR8R18bfo1HQ0-P7siCwgBFYRCAwAYBCACMAk4pQNAAFAQYIMEGLDU6sUIUARYAA"
+            },
+            "leftFinger": {
+                "id": "Ring_18",
+                "name": "Loyalty Spine",
+                "icon": "ring_18_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CmgIhuaQ3AESBwgEFRhVXUQdSjLHHB0cEnPgHXvYLz4dhgJj6h1XEHidIgsIARWJQgMAGCggHDAJOKkDQABQDmCWBGolCgwIABDX8Pr_gYCAwBESFQjuiZnVAhIHCAQV9p7YqzAJOABAARiw1OrFCFAEWAA"
+            },
+            "neck": {
+                "id": "Amulet07",
+                "name": "Thief's Strand",
+                "icon": "amulet07_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CmwIif7mbRIHCAQVj8VEZB2J1cOdHQvRkggdlL80ih0plkBgHZuRhB4dR-OV4yILCAAVw0QDABgKIAYwCTihA0AAUBBgjQRqJQoMCAAQlLP7_4GAgMAREhUIh9_TsAgSBwgEFfae2KswCTgAQAEYnpamxAxQBFgA"
+            },
+            "torso": {
+                "id": "ChestArmor_104",
+                "name": "Daring Skin",
+                "icon": "chestarmor_104_wizard_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CpYBCPf8-a4OEgcIBBXsHRlgHRCRU2gdQvNVxR0YTbwqHdXqtl4dkr80ih218ewaIgsIABXM_gEAGBIgEDAJOK0EQABICFAQYKkFaiUKDAgAEIqSjoCCgIDAERIVCN2jwckDEgcIBBW1XbZ6MAk4AEABaiUKDAgAEJCSjoCCgIDAERIVCJ_1yrQEEgcIBBW1XbZ6MAk4AEABGNj3yIEMUARYAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_16",
+                        "name": "Golden Dye",
+                        "icon": "dye_16_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/golden-dye"
+                    }
+                }
+            },
+            "feet": {
+                "id": "Boots_105",
+                "name": "Kick Remnant",
+                "icon": "boots_105_wizard_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkMIiOr05AISBwgEFVxBm38dHBJz4B26wLXmHU-XwCQdNZqvrx1WaVBfIgsIARW1RAMAGAwgEDAJOPUCQABIA1AOYNwDGLiF2vkPUARYAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_19",
+                        "name": "Purity Dye",
+                        "icon": "dye_19_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/purity-dye"
+                    }
+                }
+            },
+            "hands": {
+                "id": "Gloves_105",
+                "name": "Crush Wisp",
+                "icon": "gloves_105_wizard_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/Cj4IzqCi9g0SBwgEFYVXkqQdNZqvrx00_I9rHd1h_R0dv1voSCILCAEVd0IDABgAIAYwCTiJA0AASAhQDGDyAxj1oe22C1AEWAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_16",
+                        "name": "Golden Dye",
+                        "icon": "dye_16_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/golden-dye"
+                    }
+                }
+            },
+            "shoulders": {
+                "id": "Shoulders_105",
+                "name": "Sealed Brace",
+                "icon": "shoulders_105_wizard_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkMIj4uw2AwSBwgEFY70yBUd9ORSKh1DNO-GHVwQJ0Id4Mx2UB3RwiK3IgsIABWtRAMAGBYgDDAJOI0DQABIDlAOYPcDGJzSx9wCUARYAA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_14",
+                        "name": "Forester's Dye",
+                        "icon": "dye_14_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/foresters-dye"
+                    }
+                }
+            },
+            "legs": {
+                "id": "Pants_201",
+                "name": "Strider's Defiance",
+                "icon": "pants_201_wizard_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/Cm8I5eya_gISBwgEFZiS1aUd7TrCNh12Tww1HT74Rc4dnKygmB37dRJsHXxt-jUiCwgBFYVCAwAYACASMAk4iQRAAEgSUBBg5wRqJQoMCAAQ6YnHpIKAgMA5EhUIupTBnwYSBwgEFfae2KswCTgAQAEYz7XTogtQBFgA",
+                "dyeColor": {
+                    "item": {
+                        "id": "Dye_01",
+                        "name": "Tanner's Dye",
+                        "icon": "dye_01_demonhunter_male",
+                        "displayColor": "white",
+                        "tooltipParams": "item/tanners-dye"
+                    }
+                }
+            },
+            "bracers": {
+                "id": "Bracers_006",
+                "name": "Brawl Zephyr",
+                "icon": "bracers_006_demonhunter_male",
+                "displayColor": "yellow",
+                "tooltipParams": "item/CkYI_KKB8AoSBwgEFVckyssdTCfoDx35bXYzHTudy8gdVS2mmh3mf6u4Had_hz0iCwgBFYRCAwAYGiAYMAk4igNAAFAQYPQDGNHursMGUARYAA"
+            },
+            "head": {
+                "id": "Unique_WizardHat_003_104",
+                "name": "The Swami",
+                "icon": "unique_wizardhat_003_104_demonhunter_male",
+                "displayColor": "orange",
+                "tooltipParams": "item/ClsItsnLEhIHCAQVygZy4h3Skl1JHYYCY-od0zoWMR1fMR77HZysoJgdaVxw_TAJOOMBQABQEmC6AmohCgwIABDtle6DgYCAgBESEQgAEgcIBBVi9YtfMAk4AEABGOvk79gDUARYAA"
+            }
+        },
+        "hardcore": true,
+        "kills": {
+            "elites": 763
+        },
+        "level": 55,
+        "stats": {
+            "life": 0,
+            "damage": 10394.6,
+            "toughness": 0.0,
+            "healing": 0.0,
+            "armor": 0,
+            "strength": 647,
+            "dexterity": 402,
+            "vitality": 785,
+            "intelligence": 947,
+            "physicalResist": 0,
+            "fireResist": 210,
+            "coldResist": 219,
+            "lightningResist": 195,
+            "poisonResist": 223,
+            "arcaneResist": 195,
+            "damageIncrease": 0.0,
+            "critChance": 0.0,
+            "damageReduction": 0.0
+        },
+        "name": "Dexter",
+        "class": "wizard",
+        "gender": 0,
+        "heroId": 31574510
+    }],
+    "blacksmith": {
+        "slug": "blacksmith",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "jeweler": {
+        "slug": "jeweler",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "mystic": {
+        "slug": "mystic",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "blacksmithHardcore": {
+        "slug": "blacksmith",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "jewelerHardcore": {
+        "slug": "jeweler",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "mysticHardcore": {
+        "slug": "mystic",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "blacksmithSeason": {
+        "slug": "blacksmith",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "jewelerSeason": {
+        "slug": "jeweler",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "mysticSeason": {
+        "slug": "mystic",
+        "level": 12,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "blacksmithSeasonHardcore": {
+        "slug": "blacksmith",
+        "level": 0,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "jewelerSeasonHardcore": {
+        "slug": "jeweler",
+        "level": 0,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "mysticSeasonHardcore": {
+        "slug": "mystic",
+        "level": 0,
+        "stepCurrent": 0,
+        "stepMax": 1
+    },
+    "seasonalProfiles": {
+        "season6": {
+            "seasonId": 6,
+            "paragonLevel": 669,
+            "paragonLevelHardcore": 0,
+            "kills": {
+                "monsters": 221121,
+                "elites": 8846,
+                "hardcoreMonsters": 0
+            },
+            "timePlayed": {
+                "barbarian": 0.0,
+                "crusader": 0.0,
+                "demon-hunter": 1.0,
+                "monk": 0.0,
+                "necromancer": 0.0,
+                "witch-doctor": 0.0,
+                "wizard": 0.0
+            },
+            "highestHardcoreLevel": 0,
+            "progression": {
+                "act1": true,
+                "act2": true,
+                "act3": true,
+                "act4": true,
+                "act5": true
+            }
+        },
+        "season3": {
+            "seasonId": 3,
+            "paragonLevel": 0,
+            "paragonLevelHardcore": 538,
+            "kills": {
+                "monsters": 430965,
+                "elites": 19901,
+                "hardcoreMonsters": 430965
+            },
+            "timePlayed": {
+                "barbarian": 0.0,
+                "crusader": 0.004,
+                "demon-hunter": 1.0,
+                "monk": 0.0,
+                "necromancer": 0.0,
+                "witch-doctor": 0.573,
+                "wizard": 0.177
+            },
+            "highestHardcoreLevel": 70,
+            "progression": {
+                "act1": false,
+                "act2": false,
+                "act3": false,
+                "act4": false,
+                "act5": false
+            }
+        },
+        "season4": {
+            "seasonId": 4,
+            "paragonLevel": 0,
+            "paragonLevelHardcore": 0,
+            "kills": {
+                "monsters": 0,
+                "elites": 0,
+                "hardcoreMonsters": 0
+            },
+            "timePlayed": {
+                "barbarian": 0.0,
+                "crusader": 0.0,
+                "demon-hunter": 1.0,
+                "monk": 0.0,
+                "necromancer": 0.0,
+                "witch-doctor": 0.0,
+                "wizard": 0.0
+            },
+            "highestHardcoreLevel": 1,
+            "progression": {
+                "act1": false,
+                "act2": false,
+                "act3": false,
+                "act4": false,
+                "act5": false
+            }
+        },
+        "season1": {
+            "seasonId": 1,
+            "paragonLevel": 0,
+            "paragonLevelHardcore": 0,
+            "kills": {
+                "monsters": 9449,
+                "elites": 573,
+                "hardcoreMonsters": 9449
+            },
+            "timePlayed": {
+                "barbarian": 0.0,
+                "crusader": 0.0,
+                "demon-hunter": 0.0,
+                "monk": 0.0,
+                "necromancer": 0.0,
+                "witch-doctor": 1.0,
+                "wizard": 0.0
+            },
+            "highestHardcoreLevel": 58,
+            "progression": {
+                "act1": false,
+                "act2": false,
+                "act3": false,
+                "act4": false,
+                "act5": false
+            }
+        },
+        "season0": {
+            "seasonId": 0,
+            "paragonLevel": 806,
+            "paragonLevelHardcore": 788,
+            "kills": {
+                "monsters": 2849756,
+                "elites": 139024,
+                "hardcoreMonsters": 2180494
+            },
+            "timePlayed": {
+                "barbarian": 0.632,
+                "crusader": 0.014,
+                "demon-hunter": 1.0,
+                "monk": 0.143,
+                "necromancer": 0.032,
+                "witch-doctor": 0.193,
+                "wizard": 0.553
+            },
+            "highestHardcoreLevel": 70,
+            "progression": {
+                "act1": true,
+                "act2": false,
+                "act3": true,
+                "act4": true,
+                "act5": true
+            }
+        },
+        "season12": {
+            "seasonId": 12,
+            "paragonLevel": 756,
+            "paragonLevelHardcore": 0,
+            "kills": {
+                "monsters": 140751,
+                "elites": 6323,
+                "hardcoreMonsters": 0
+            },
+            "timePlayed": {
+                "barbarian": 0.0,
+                "crusader": 0.0,
+                "demon-hunter": 1.0,
+                "monk": 0.0,
+                "necromancer": 0.0,
+                "witch-doctor": 0.0,
+                "wizard": 0.013
+            },
+            "highestHardcoreLevel": 0,
+            "progression": {
+                "act1": false,
+                "act2": false,
+                "act3": false,
+                "act4": false,
+                "act5": false
+            }
+        }
+    }
+}

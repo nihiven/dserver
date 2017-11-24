@@ -1,0 +1,136 @@
+{
+    "id": "Unique_Belt_009_x1",
+    "name": "The Witching Hour",
+    "icon": "unique_belt_009_x1_demonhunter_male",
+    "displayColor": "orange",
+    "tooltipParams": "item/ClwI2ZX_lgISBwgEFR3dj2kd0IZp1x1xi3fwHYQDodYdYUKU2R1-dlWhHZinjsAwi9ILOMUBQABQElgEYJEDgAFGpQFhQpTZrQEyicdatQHAp0LUuAH0xNPxD8ABAhi69P6YDVAAWAA",
+    "requiredLevel": 70,
+    "itemLevel": 70,
+    "stackSizeMax": 0,
+    "bonusAffixes": 0,
+    "bonusAffixesMax": 0,
+    "accountBound": true,
+    "flavorText": "When the moon is full and silence descends upon the land, the hour of magic is upon us.",
+    "typeName": "Primal Ancient Legendary Belt",
+    "type": {
+        "twoHanded": false,
+        "id": "GenericBelt"
+    },
+    "damageRange": "0–0 Damage",
+    "armor": {
+        "min": 456.0,
+        "max": 456.0
+    },
+    "slots": ["waist"],
+    "attributes": {
+        "primary": [{
+            "color": "blue",
+            "text": "+650 Dexterity",
+            "affixType": "enchant"
+        }, {
+            "color": "blue",
+            "text": "+650 Vitality",
+            "affixType": "default"
+        }, {
+            "color": "blue",
+            "text": "Attack Speed Increased by 7.0%",
+            "affixType": "default"
+        }, {
+            "color": "blue",
+            "text": "Critical Hit Damage Increased by 50.0% ",
+            "affixType": "default"
+        }],
+        "secondary": [{
+            "color": "blue",
+            "text": "+210 Lightning Resistance",
+            "affixType": "default"
+        }, {
+            "color": "blue",
+            "text": "Increases Gold and Health Pickup by 2 Yards.",
+            "affixType": "utility"
+        }],
+        "passive": []
+    },
+    "attributesRaw": {
+        "Item_LegendaryItem_Level_Override": {
+            "min": 70.0,
+            "max": 70.0
+        },
+        "Durability_Max": {
+            "min": 401.0,
+            "max": 401.0
+        },
+        "Post_2_1_2_Drop": {
+            "min": 1.0,
+            "max": 1.0
+        },
+        "Crit_Damage_Percent": {
+            "min": 0.5,
+            "max": 0.5
+        },
+        "Loot_2_0_Drop": {
+            "min": 1.0,
+            "max": 1.0
+        },
+        "Dexterity_Item": {
+            "min": 650.0,
+            "max": 650.0
+        },
+        "Post_2_5_0_Drop": {
+            "min": 1.0,
+            "max": 1.0
+        },
+        "Armor_Item": {
+            "min": 456.0,
+            "max": 456.0
+        },
+        "Ancient_Rank": {
+            "min": 2.0,
+            "max": 2.0
+        },
+        "Gold_PickUp_Radius": {
+            "min": 2.0,
+            "max": 2.0
+        },
+        "Vitality_Item": {
+            "min": 650.0,
+            "max": 650.0
+        },
+        "Post_2_1_2_Drop": {
+            "min": 1.0,
+            "max": 1.0
+        },
+        "Attacks_Per_Second_Percent": {
+            "min": 0.07,
+            "max": 0.07
+        },
+        "Season": {
+            "min": 0.0,
+            "max": 0.0
+        },
+        "Item_Legendary_Item_Base_Item": {
+            "min": -7.33829184E8,
+            "max": -7.33829184E8
+        },
+        "Item_Binding_Level_Override": {
+            "min": 2.0,
+            "max": 2.0
+        },
+        "Durability_Cur": {
+            "min": 197.0,
+            "max": 197.0
+        },
+        "Resistance#Lightning": {
+            "min": 210.0,
+            "max": 210.0
+        }
+    },
+    "randomAffixes": [],
+    "gems": [],
+    "socketEffects": [],
+    "craftedBy": [],
+    "seasonRequiredToDrop": -1,
+    "isSeasonRequiredToDrop": false,
+    "description": null,
+    "blockChance": "+0.0% Chance to Block"
+}

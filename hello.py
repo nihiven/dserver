@@ -1,4 +1,5 @@
 import sqlite3
+import load_heroes
 from flask import Flask, render_template
 app = Flask(__name__)
 

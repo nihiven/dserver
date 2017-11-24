@@ -4,8 +4,6 @@ import sqlite3
 import sys
 
 
-
-# battle.net related
 class SQL:
     # profile
     createProfilesTable = "CREATE TABLE profiles (id integer primary key autoincrement, battleTag text, guildName text, paragonLevelSoftcore integer, paragonLevelHardcore integer, paragonLevelSeason integer, lastUpdate datetime)"
@@ -215,7 +213,6 @@ def upsert_items_db(battleTag, heroId):
 # this is meant to update everything so do your work here
 def do_profile(battleTag):
     profile = upsert_profile_db(battleTag=battleTag)
-
     if (profile is None):
         return False
 
@@ -224,10 +221,9 @@ def do_profile(battleTag):
         upsert_items_db(battleTag=battleTag, heroId=hero['id'])
 
 
-
 def process_queue():
     battleTags = get_processingQueue_db()
-    battleTags = [('nihiven-1513',)]
+    # battleTags = [('nihiven-1513',)]
     for battleTag in battleTags:
         profile = None
         do_profile(battleTag[0])
