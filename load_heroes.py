@@ -18,9 +18,9 @@ class SQL:
     getHeroes = 'select name, bnet, hero from heroes'
     # items
     createItemTable = 'CREATE TABLE items (id integer primary key autoincrement, battleTag text, heroId text, itemId text, name text, icon text, displayColor text, tooltipParams text)'
-    isItem = 'select count(1) from items where itemId="{itemId}" and tooltipParams="{tooltipParams}"'
+    isItem = 'select count(1) from items where tooltipParams="{tooltipParams}"'
     addItem = 'INSERT INTO items (id, battleTag, heroId, itemId, name, icon, displayColor, tooltipParams) VALUES (NULL, "{battleTag}", "{heroId}", "{itemId}", "{name}", "{icon}", "{displayColor}", "{tooltipParams}")'
-    updateItem = 'UPDATE items SET battleTag="{battleTag}", heroId="{heroId}", name="{name}", icon="{icon}", displayColor="{displayColor}" where itemId="{itemId}" and tooltipParams="{tooltipParams}"'
+    updateItem = 'UPDATE items SET battleTag="{battleTag}", heroId="{heroId}", name="{name}", icon="{icon}", displayColor="{displayColor}", itemId="{itemId}" where tooltipParams="{tooltipParams}"'
     # paragon
     createParagonHistoryTable = 'CREATE TABLE paragonHistory (id integer primary key autoincrement, bnet text, level integer, checked datetime)'
     inParagon = "INSERT INTO paragon (`id`,`bnet`,`level`,`checked`) VALUES (NULL,'{bnet}', {paragon}, datetime('now'))"
@@ -65,9 +65,9 @@ def is_hero_db(heroId):
 
     return True
 
-def is_item_db(itemId, tooltipParams):
+def is_item_db(tooltipParams):
     global conn
-    query = SQL.isItem.format(itemId=itemId, tooltipParams=tooltipParams)
+    query = SQL.isItem.format(tooltipParams=tooltipParams)
     cursor = conn.execute(query)
     row = cursor.fetchone()
     if (row[0] == 0):
@@ -151,6 +151,7 @@ def upsert_profile_db(battleTag):
     conn.commit()
     return profile
 
+
 def upsert_hero_db(battleTag, heroRow):
     if (is_hero_db(heroId=heroRow['id'])):
         conn.execute(SQL.updateHero.format(
@@ -174,6 +175,7 @@ def upsert_hero_db(battleTag, heroRow):
     conn.commit()
     return True
 
+
 def get_processingQueue_db():
     global conn
     cursor = conn.execute(SQL.getProcessingQueue)
@@ -181,12 +183,13 @@ def get_processingQueue_db():
     rows = cursor.fetchall()
     return rows
 
+
 def upsert_items_db(battleTag, heroId):
     global conn
     hero = get_hero_api(battleTag=battleTag, heroId=heroId)
     for item in hero['items']:
         gear = hero['items'][item]
-        if (is_item_db(itemId=gear['id'], tooltipParams=gear['tooltipParams'])):
+        if (is_item_db(tooltipParams=gear['tooltipParams'])):
             conn.execute(SQL.updateItem.format(
                 battleTag=battleTag,
                 heroId=heroId,
@@ -222,8 +225,8 @@ def do_profile(battleTag):
 
 
 def process_queue():
-    battleTags = get_processingQueue_db()
-    # battleTags = [('nihiven-1513',)]
+    #battleTags = get_processingQueue_db()
+    battleTags = [('nihiven-1513',)]
     for battleTag in battleTags:
         profile = None
         do_profile(battleTag[0])
