@@ -3,6 +3,77 @@ import urllib2
 import sqlite3
 import sys
 
+# DMItem["API field"] = "DB column"
+DMItem = {}
+DMItem["accountBound"] = "accountBound"
+DMItem["Ancient_Rank"] = "ancientRank"
+DMItem["Armor_Item"] = "armorItem"
+# DMItem["armor"] = "armor"
+DMItem["attacksPerSecond"] = "attacksPerSecond"
+# DMItem["attacksPerSecondText"] = "attacksPerSecondText"
+# DMItem["attributes"] = ""
+# DMItem["attributesRaw"] = ""
+DMItem["augmentation"] = "augmentation"
+DMItem["blockChance"] = "blockChance"
+# DMItem["bonusAffixes"] = ""
+# DMItem["bonusAffixesMax"] = ""
+# DMItem["craftedBy"] = "craftedBy"
+DMItem["Crit_Damage_Percent"] = "critDamage"
+DMItem["CubeEnchantedGemRank"] = "cubeEnchantedGemRank"
+DMItem["CubeEnchantedGemType"] = "cubeEnchantedGemType"
+# DMItem["damageRange"] = "damageRange"
+# DMItem["description"] = ""
+DMItem["Dexterity_Item"] = "dexterity"
+DMItem["displayColor"] = "displayColor"
+DMItem["dps"] = "dps"
+DMItem["Durability_Cur"] = "durabilityCurrent"
+DMItem["Durability_Max"] = "durabilityMax"
+# DMItem["dyeColor"] = ""
+DMItem["elementalType"] = "elementalType"
+# DMItem["flavorText"] = ""
+DMItem["gems"] = "gems"
+DMItem["Gold_Find"] = "goldFind"
+DMItem["icon"] = "icon"
+DMItem["id"] = "itemId"
+# DMItem["isSeasonRequiredToDrop"] = ""
+DMItem["itemLevel"] = "itemLevel"
+DMItem["maxDamage"] = "maxDamage"
+DMItem["minDamage"] = "minDamage"
+DMItem["name"] = "name"
+# DMItem["randomAffixes"] = ""
+# DMItem["recipe"] = ""
+DMItem["requiredLevel"] = "requiredLevel"
+DMItem["Resistance#Cold"] = "resistanceCold"
+# DMItem["seasonRequiredToDrop"] = ""
+# DMItem["set"] = ""
+# DMItem["setItemsEquipped"] = ""
+# DMItem["slots"] = ""
+# DMItem["socketEffects"] = ""
+# DMItem["stackSizeMax"] = ""
+DMItem["tooltipParams"] = "tooltipParams"
+# DMItem["transmogItem"] = ""
+# DMItem["type"] = ""
+DMItem["typeName"] = "typeName"
+DMItem["Vitality_Item"] = "vitality"
+
+
+
+
+# returns field only
+def _db(apiField):
+    if (apiField in DMItem):
+        return DMItem[apiField]
+
+    return None
+
+
+# returns table and field
+def dbMap(apiField):
+    if (apiField in DMItem):
+        return {'table': 'itemDetail', 'field': DMItem[apiField]}
+
+    return None
+
 
 class SQL:
     # profile
@@ -17,7 +88,7 @@ class SQL:
     addHero = "INSERT INTO heroes (id, heroId, name, seasonal, level, hardcore, charClass) VALUES (NULL, '{heroId}', '{name}', '{seasonal}', '{level}', '{hardcore}', '{charClass}')"
     getHeroes = 'select name, bnet, hero from heroes'
     # items
-    createItemTable = 'CREATE TABLE items (id integer primary key autoincrement, battleTag text, heroId text, itemId text, name text, icon text, displayColor text, tooltipParams text)'
+    createItemTable = 'CREATE TABLE items (id integer primary key autoincrement, battleTag text, heroId text, itemId text, name text, icon text, displayColor text, ancientRank float, tooltipParams text)'
     isItem = 'select count(1) from items where tooltipParams="{tooltipParams}"'
     addItem = 'INSERT INTO items (id, battleTag, heroId, itemId, name, icon, displayColor, tooltipParams) VALUES (NULL, "{battleTag}", "{heroId}", "{itemId}", "{name}", "{icon}", "{displayColor}", "{tooltipParams}")'
     updateItem = 'UPDATE items SET battleTag="{battleTag}", heroId="{heroId}", name="{name}", icon="{icon}", displayColor="{displayColor}", itemId="{itemId}" where tooltipParams="{tooltipParams}"'
@@ -35,7 +106,7 @@ class SQL:
 class BattleNet:
     profile = 'https://us.api.battle.net/d3/profile/{battleTag}/?locale=en_US&apikey={bnetAPI}'
     hero = 'https://us.api.battle.net/d3/profile/{battleTag}/hero/{heroId}?locale=en_US&apikey={bnetAPI}'
-    item = 'https://us.api.battle.net/d3/data/{tooltipString}?locale=en_US&apikey={bnetAPI}'
+    item = 'https://us.api.battle.net/d3/data/{tooltipParams}?locale=en_US&apikey={bnetAPI}'
 
 
 CONFIG = {}
@@ -55,6 +126,7 @@ def is_profile_db(battleTag):
 
     return True
 
+
 def is_hero_db(heroId):
     global conn
     query = SQL.isHero.format(heroId=heroId)
@@ -64,6 +136,7 @@ def is_hero_db(heroId):
         return False
 
     return True
+
 
 def is_item_db(tooltipParams):
     global conn
@@ -97,9 +170,9 @@ def get_hero_api(battleTag, heroId):
     return result
 
 
-def get_item_api(tooltipString):
+def get_item_api(tooltipParams):
     global URL
-    request = BattleNet.item.format(tooltipString=tooltipString, bnetAPI=CONFIG['BNET_API'])
+    request = BattleNet.item.format(tooltipParams=tooltipParams, bnetAPI=CONFIG['BNET_API'])
     result = get_json_data(request)
     return result
 
@@ -184,6 +257,17 @@ def get_processingQueue_db():
     return rows
 
 
+def upsert_item_details_db(tooltipParams):
+    global conn, DMItem
+    data = get_item_api(tooltipParams=tooltipParams)
+    for field in data:
+        db = _db(field)
+        if (db is None):
+            print '*** DMItem["{field}"] = ""'.format(field=field)
+        else:
+            print '{field}: {value}'.format(field=field, value=data[field]).encode('utf8')
+
+
 def upsert_items_db(battleTag, heroId):
     global conn
     hero = get_hero_api(battleTag=battleTag, heroId=heroId)
@@ -209,6 +293,9 @@ def upsert_items_db(battleTag, heroId):
                 displayColor=gear['displayColor'],
                 tooltipParams=gear['tooltipParams']
             ))
+
+        # is this where we call this? i think so......?
+        upsert_item_details_db(gear['tooltipParams'])
 
     conn.commit()
 
