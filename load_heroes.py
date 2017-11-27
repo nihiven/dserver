@@ -57,8 +57,6 @@ DMItem["typeName"] = "typeName"
 DMItem["Vitality_Item"] = "vitality"
 
 
-
-
 # returns field only
 def _db(apiField):
     if (apiField in DMItem):
@@ -88,9 +86,9 @@ class SQL:
     addHero = "INSERT INTO heroes (id, heroId, name, seasonal, level, hardcore, charClass) VALUES (NULL, '{heroId}', '{name}', '{seasonal}', '{level}', '{hardcore}', '{charClass}')"
     getHeroes = 'select name, bnet, hero from heroes'
     # items
-    createItemTable = 'CREATE TABLE items (id integer primary key autoincrement, battleTag text, heroId text, itemId text, name text, icon text, displayColor text, ancientRank float, tooltipParams text)'
+    createItemTable = 'CREATE TABLE items (tooltipParams text primary key, battleTag text, heroId text, itemId text, name text, icon text, displayColor text, ancientRank float)'
     isItem = 'select count(1) from items where tooltipParams="{tooltipParams}"'
-    addItem = 'INSERT INTO items (id, battleTag, heroId, itemId, name, icon, displayColor, tooltipParams) VALUES (NULL, "{battleTag}", "{heroId}", "{itemId}", "{name}", "{icon}", "{displayColor}", "{tooltipParams}")'
+    addItem = 'INSERT INTO items (battleTag, heroId, itemId, name, icon, displayColor, tooltipParams) VALUES ("{battleTag}", "{heroId}", "{itemId}", "{name}", "{icon}", "{displayColor}", "{tooltipParams}")'
     updateItem = 'UPDATE items SET battleTag="{battleTag}", heroId="{heroId}", name="{name}", icon="{icon}", displayColor="{displayColor}", itemId="{itemId}" where tooltipParams="{tooltipParams}"'
     # paragon
     createParagonHistoryTable = 'CREATE TABLE paragonHistory (id integer primary key autoincrement, bnet text, level integer, checked datetime)'
