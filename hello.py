@@ -1,12 +1,6 @@
-import sqlite3
-import load_heroes
+from sql import SQL, dbConnect, dbProfileExists
 from flask import Flask, render_template
 app = Flask(__name__)
-
-class SQL:
-    getQueue = "select battleTag from processingQueue"
-    isQueued = "select count(1) from processingQueue where battleTag='{battleTag}'"
-    enqueue = "INSERT INTO processingQueue (`battleTag`) VALUES ('{battleTag}')"
 
 
 @app.route('/')
@@ -16,9 +10,9 @@ def hello_world():
 
 @app.route('/queue/')
 @app.route('/queue/<string:battleTag>')
-def show_post(battleTag=None):
+def show_queue(battleTag=None):
     addedToQueue = False
-    conn = sqlite3.connect('d3.db')
+    conn = dbConnect()
     if (battleTag is not None):
         cursor = conn.execute(SQL.isQueued.format(battleTag=battleTag))
         data = cursor.fetchone()
@@ -36,5 +30,19 @@ def show_post(battleTag=None):
 
 @app.route('/profile/')
 @app.route('/profile/<string:battleTag>')
-def show_test():
-    return render_template('test.html')
+def show_profile(battleTag=None):
+    profiles = None
+    profileExists = False
+    if (battleTag is None):
+        conn = dbConnect()
+        cursor = conn.execute(SQL.allProfiles)
+        profiles = cursor.fetchall()
+        conn.close()
+    else:
+        profileExists = dbProfileExists(battleTag)
+        if (profileExists is True):
+            print 'exists'
+        else:
+            print 'does not exist'
+
+    return render_template('profile.html', profiles=profiles, battleTag=battleTag, profileExists=profileExists)

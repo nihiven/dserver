@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Profile List{% endblock %}
+{% block contentHeader %}Available Profiles{% endblock %}
+{% block contentLead %}
+  {% if battleTag %}
+    Showing heroes for {{ battleTag }}
+  {% else %}
+    Showing all profiles...
+  {% endif %}
+{% endblock %}
+{% block contentData %}
+  <table>
+    <thead>
+      <tr><td>
+        <h3>Profiles</h3>
+      </td></tr>
+    </thead>
+    <tbody>
+    {% if profileExists %}
+      {% if profiles is not none %}
+        {% for profile in profiles %}
+            <tr><td>
+              <a href="/profile/{{ profile[0] }}">{{ profile[0] }}</a> ({{ profile[1] }})
+            </td></tr>
+        {% endfor %}
+      {% else %}
+        <tr><td>No profiles available.</td></tr>
+      {% endif %}
+    {% else %}
+      <tr><td>
+        <a href="/queue/{{ battleTag }}">Click here to queue {{ battleTag }} for processing.</a>
+      </td></tr>
+    {% endif %}
+    </tbody>
+  </table>
+{% endblock %}
