@@ -22,4 +22,4 @@ shutilwhich==1.1.0
 urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
-Werkzeug==0.15.3
+Werkzeug==0.15.5
